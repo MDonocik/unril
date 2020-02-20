@@ -1,0 +1,1609 @@
+﻿Log file open, 02/20/20 08:21:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: LabiryntMD
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.058051
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.214s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1050
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: E:/UE 4.20.3/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.013s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.02.20-07.21.25:806][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.20-07.21.25:806][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.20-07.21.25:889][  0]LogHAL: Display: Platform has ~ 16 GB [17136578560 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.20-07.21.25:897][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2020.02.20-07.21.25:897][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.20-07.21.25:919][  0]LogInit: Computer: PC0160BIEL
+[2020.02.20-07.21.25:919][  0]LogInit: User: DSuskiMDonocik1aTI
+[2020.02.20-07.21.25:919][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.02.20-07.21.25:919][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.20-07.21.25:919][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.02.20-07.21.25:919][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.20-07.21.25:919][  0]LogMemory: Process Physical Memory: 102.32 MB used, 102.32 MB peak
+[2020.02.20-07.21.25:919][  0]LogMemory: Process Virtual Memory: 90.14 MB used, 90.14 MB peak
+[2020.02.20-07.21.25:919][  0]LogMemory: Physical Memory: 3359.17 MB used,  12983.54 MB free, 16342.71 MB total
+[2020.02.20-07.21.25:919][  0]LogMemory: Virtual Memory: 4615.10 MB used,  12983.54 MB free, 134217728.00 MB total
+[2020.02.20-07.21.26:494][  0]LogInit: Using OS detected language (pl-PL).
+[2020.02.20-07.21.26:494][  0]LogInit: Using OS detected locale (pl-PL).
+[2020.02.20-07.21.26:554][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2020.02.20-07.21.26:686][  0]LogStreaming: Display: Took  0.176s to InitEngineTextLocalization.
+[2020.02.20-07.21.26:700][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.20-07.21.27:161][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.20-07.21.27:161][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.20-07.21.30:464][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.20-07.21.30:464][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.20-07.21.30:554][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2020.02.20-07.21.30:554][  0]LogD3D11RHI:       1977/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.02.20-07.21.30:562][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.20-07.21.30:562][  0]LogD3D11RHI:       0/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.20-07.21.30:563][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.20-07.21.30:569][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.20-07.21.30:569][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.20-07.21.30:583][  0]LogWindows: EnumDisplayDevices:
+[2020.02.20-07.21.30:583][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
+[2020.02.20-07.21.30:583][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2020.02.20-07.21.30:584][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2020.02.20-07.21.30:584][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2020.02.20-07.21.30:584][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.02.20-07.21.30:584][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2020.02.20-07.21.30:584][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2020.02.20-07.21.30:584][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2020.02.20-07.21.30:584][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
+[2020.02.20-07.21.30:635][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.20-07.21.30:814][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.20-07.21.30:870][  0]LogShaderCompilers: Guid format shader working directory is 17 characters bigger than the processId version (../../../../../MD/Unreal Project/LabiryntMD/Intermediate/Shaders/WorkingDirectory/13940/).
+[2020.02.20-07.21.30:870][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/DSuski MDonocik 1aTI/AppData/Local/Temp/UnrealShaderWorkingDir/7C0456FE41467EE144F8888D46044237/'.
+[2020.02.20-07.21.31:880][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.02.20-07.21.31:921][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.02.20-07.21.31:956][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.02.20-07.21.31:987][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.02.20-07.21.32:039][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.02.20-07.21.32:084][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.02.20-07.21.32:109][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.02.20-07.21.32:134][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.02.20-07.21.32:154][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.02.20-07.21.32:285][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.20-07.21.32:285][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.20-07.21.32:285][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.20-07.21.32:285][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.20-07.21.32:285][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.20-07.21.32:285][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.20-07.21.32:285][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.20-07.21.32:285][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.20-07.21.32:285][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.20-07.21.32:285][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.20-07.21.32:285][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.20-07.21.32:285][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.20-07.21.32:285][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.20-07.21.32:285][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.20-07.21.32:285][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.20-07.21.32:285][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.20-07.21.32:285][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.20-07.21.32:285][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.20-07.21.32:307][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.02.20-07.21.32:459][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.02.20-07.21.32:459][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.02.20-07.21.32:508][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.02.20-07.21.32:508][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.02.20-07.21.32:547][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.02.20-07.21.32:573][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.02.20-07.21.32:601][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.02.20-07.21.32:637][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.02.20-07.21.32:660][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.02.20-07.21.32:661][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.20-07.21.33:394][  0]LogXGEController: Cleaning working directory: C:/Users/DSuski MDonocik 1aTI/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.02.20-07.21.33:394][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.20-07.21.33:394][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.20-07.21.33:394][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.20-07.21.36:341][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.20-07.21.36:736][  0]LogDerivedDataCache: Loaded boot cache 0.39s 87MB C:/Users/DSuski MDonocik 1aTI/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2020.02.20-07.21.36:737][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/DSuski MDonocik 1aTI/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2020.02.20-07.21.36:737][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../MD/Unreal Project/LabiryntMD/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.20-07.21.36:737][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.20-07.21.36:737][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../MD/Unreal Project/LabiryntMD/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.20-07.21.36:737][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.20-07.21.36:809][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.20-07.21.36:823][  0]LogDerivedDataCache: Using Local data cache path C:/Users/DSuski MDonocik 1aTI/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.20-07.21.36:823][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.20-07.21.36:823][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.20-07.21.36:858][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.20-07.21.36:909][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.20-07.21.37:001][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.20-07.21.37:548][  0]LogAssetRegistry: FAssetRegistry took 0.0373 seconds to start up
+[2020.02.20-07.21.39:492][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.20-07.21.41:297][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.02.20-07.21.41:430][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.02.20-07.21.41:430][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.20-07.21.41:431][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.20-07.21.41:431][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.02.20-07.21.41:647][  0]LogNetVersion: LabiryntMD 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4274374272)
+[2020.02.20-07.21.44:798][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.154339 seconds
+[2020.02.20-07.21.44:829][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2020.02.20-07.21.44:829][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2020.02.20-07.21.44:829][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.20-07.21.54:609][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.20-07.21.54:680][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.20-07.21.55:866][  0]SourceControl: Source control is disabled
+[2020.02.20-07.21.55:874][  0]SourceControl: Source control is disabled
+[2020.02.20-07.21.55:949][  0]SourceControl: Source control is disabled
+[2020.02.20-07.21.55:980][  0]SourceControl: Source control is disabled
+[2020.02.20-07.21.57:538][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.20-07.21.57:801][  0]LogOcInput: OculusInput pre-init called
+[2020.02.20-07.21.58:322][  0]LogEngine: Initializing Engine...
+[2020.02.20-07.21.58:343][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.20-07.21.58:361][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.001 s
+[2020.02.20-07.21.58:361][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.02.20-07.21.58:362][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.02.20-07.21.58:362][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.02.20-07.21.59:054][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.20-07.21.59:353][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.20-07.21.59:483][  0]LogInit: XAudio2 using 'G2460 (2 — NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.20-07.21.59:573][  0]LogInit: FAudioDevice initialized.
+[2020.02.20-07.21.59:573][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.20-07.21.59:656][  0]LogDerivedDataCache: Saved boot cache 0.08s 87MB C:/Users/DSuski MDonocik 1aTI/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2020.02.20-07.21.59:662][  0]LogInit: Texture streaming: Enabled
+[2020.02.20-07.21.59:793][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.20-07.21.59:866][  0]LogInit: Transaction tracking system initialized
+[2020.02.20-07.22.00:184][  0]BlueprintLog: New page: Editor Load
+[2020.02.20-07.22.01:304][  0]LocalizationService: Localization service is disabled
+[2020.02.20-07.22.03:968][  0]LogFileCache: Scanning file cache for directory 'E:/MD/Unreal Project/LabiryntMD/Content/' took 0.03s
+[2020.02.20-07.22.03:968][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.20-07.22.03:976][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.20-07.22.03:995][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.02.20-07.22.03:995][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.02.20-07.22.03:995][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.02.20-07.22.03:995][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.02.20-07.22.03:995][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.02.20-07.22.06:435][  0]SourceControl: Source control is disabled
+[2020.02.20-07.22.06:454][  0]Cmd: MAP LOAD FILE="../../../../../MD/Unreal Project/LabiryntMD/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.20-07.22.06:508][  0]LightingResults: New page: Lighting Build
+[2020.02.20-07.22.06:636][  0]MapCheck: New page: Map Check
+[2020.02.20-07.22.06:636][  0]LightingResults: New page: Lighting Build
+[2020.02.20-07.22.10:316][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.02.20-07.22.10:673][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.20-07.22.10:777][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.20-07.22.10:818][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 40,72ms to complete.
+[2020.02.20-07.22.10:818][  0]LogFileHelpers: Loading map 'Minimal_Default' took 4.373
+[2020.02.20-07.22.11:804][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-07.22.11:826][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-07.22.11:845][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-07.22.11:857][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-07.22.11:899][  0]LogCollectionManager: Loaded 0 collections in 0.001229 seconds
+[2020.02.20-07.22.11:987][  0]LogFileCache: Scanning file cache for directory 'E:/MD/Unreal Project/LabiryntMD/Saved/Collections/' took 0.01s
+[2020.02.20-07.22.11:987][  0]LogFileCache: Scanning file cache for directory 'E:/MD/Unreal Project/LabiryntMD/Content/Developers/DSuskiMDonocik1aTI/Collections/' took 0.01s
+[2020.02.20-07.22.11:987][  0]LogFileCache: Scanning file cache for directory 'E:/MD/Unreal Project/LabiryntMD/Content/Collections/' took 0.01s
+[2020.02.20-07.22.11:987][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.02.20-07.22.12:011][  0]LogContentBrowser: Native class hierarchy populated in 0.0237 seconds. Added 2572 classes and 603 folders.
+[2020.02.20-07.22.12:068][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.02.20-07.22.13:554][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.02.20-07.22.13:624][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.02.20-07.22.14:069][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.02.20-07.22.14:069][  0]LogLoad: (Engine Initialization) Total time: 70.95 seconds
+[2020.02.20-07.22.14:069][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.20-07.22.14:188][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.20-07.22.14:276][  0]LogSlate: Took 0.026921 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.20-07.22.14:319][  0]LogSlate: Took 0.036282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.20-07.22.14:353][  0]LogSlate: Took 0.018245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.20-07.22.14:870][  0]LogRenderer: Reallocating scene render targets to support 804x276 Format 10 NumSamples 1 (Frame:1).
+[2020.02.20-07.22.14:870][  0]LogSlate: Took 0.038842 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.20-07.22.15:203][  2]LogAssetRegistry: Asset discovery search completed in 37.6781 seconds
+[2020.02.20-07.22.15:205][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.02.20-07.22.15:205][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000073 seconds (updated 0 objects)
+[2020.02.20-07.22.49:776][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-07.22.49:942][787]LogRenderer: Reallocating scene render targets to support 1208x460 Format 10 NumSamples 1 (Frame:692).
+[2020.02.20-07.22.58:455][793]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.20-07.22.59:060][863]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.20-07.22.59:545][920]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.20-07.23.01:256][123]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.20-07.23.06:077][678]Cmd: MAP LOAD FILE="../../../../../MD/Unreal Project/LabiryntMD/Content/labiryntMdd.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.20-07.23.06:080][678]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.20-07.23.06:098][678]LightingResults: New page: Lighting Build
+[2020.02.20-07.23.06:099][678]LoadErrors: New page: Loading map: labiryntMdd.umap
+[2020.02.20-07.23.06:100][678]MapCheck: New page: Map Check
+[2020.02.20-07.23.06:100][678]LightingResults: New page: Lighting Build
+[2020.02.20-07.23.06:687][678]LogAIModule: Creating AISystem for world labiryntMdd
+[2020.02.20-07.23.06:743][678]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.20-07.23.06:819][678]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.20-07.23.06:863][678]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 45,016ms to complete.
+[2020.02.20-07.23.06:863][678]LogFileHelpers: Loading map 'labiryntMdd' took 0.787
+[2020.02.20-07.23.06:865][678]LogSlate: Window 'Open Level' being destroyed
+[2020.02.20-07.23.11:244][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-07.23.11:351][203]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.20-07.23.11:384][203]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.23.11:384][203]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.20-07.23.11:454][203]PIE: New page: PIE session: labiryntMdd (20 lut 2020, 09:23:11)
+[2020.02.20-07.23.11:455][203]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_labiryntMdd
+[2020.02.20-07.23.11:482][203]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027787s)
+[2020.02.20-07.23.11:484][203]LogAIModule: Creating AISystem for world labiryntMdd
+[2020.02.20-07.23.11:484][203]LogPlayLevel: PIE: World Init took: (0.002345s)
+[2020.02.20-07.23.11:485][203]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/labiryntMdd.labiryntMdd to /Game/UEDPIE_0_labiryntMdd.labiryntMdd (0.030637s)
+[2020.02.20-07.23.11:561][203]LogInit: XAudio2 using 'G2460 (2 — NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.20-07.23.11:575][203]LogInit: FAudioDevice initialized.
+[2020.02.20-07.23.11:635][203]LogLoad: Game class is 'GameModeBase'
+[2020.02.20-07.23.11:643][203]LogWorld: Bringing World /Game/UEDPIE_0_labiryntMdd.labiryntMdd up for play (max tick rate 0) at 2020.02.20-08.23.11
+[2020.02.20-07.23.11:644][203]LogWorld: Bringing up level for play took: 0.000944
+[2020.02.20-07.23.11:732][203]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2020.02.20-07.23.11:759][203]PIE: Play in editor start time for /Game/UEDPIE_0_labiryntMdd 0,577
+[2020.02.20-07.23.11:759][203]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.23.26:375][941]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.23.26:385][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-07.23.26:423][941]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.20-07.23.26:424][941]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.23.26:476][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-07.23.26:495][942]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.02.20-07.23.27:952][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-07.23.32:802][627]LogRenderer: Reallocating scene render targets to support 1208x468 Format 10 NumSamples 1 (Frame:1225).
+[2020.02.20-07.23.32:842][628]LogRenderer: Reallocating scene render targets to support 1208x476 Format 10 NumSamples 1 (Frame:1227).
+[2020.02.20-07.23.32:882][629]LogRenderer: Reallocating scene render targets to support 1208x484 Format 10 NumSamples 1 (Frame:1229).
+[2020.02.20-07.23.32:932][630]LogRenderer: Reallocating scene render targets to support 1208x488 Format 10 NumSamples 1 (Frame:1231).
+[2020.02.20-07.23.33:125][646]LogRenderer: Reallocating scene render targets to support 1208x492 Format 10 NumSamples 1 (Frame:1249).
+[2020.02.20-07.23.34:561][806]LogRenderer: Reallocating scene render targets to support 1208x784 Format 10 NumSamples 1 (Frame:1412).
+[2020.02.20-07.23.37:462][143]LogRenderer: Reallocating scene render targets to support 1216x784 Format 10 NumSamples 1 (Frame:1752).
+[2020.02.20-07.23.37:504][143]LogRenderer: Reallocating scene render targets to support 1224x784 Format 10 NumSamples 1 (Frame:1754).
+[2020.02.20-07.23.37:555][144]LogRenderer: Reallocating scene render targets to support 1240x784 Format 10 NumSamples 1 (Frame:1756).
+[2020.02.20-07.23.37:606][146]LogRenderer: Reallocating scene render targets to support 1264x784 Format 10 NumSamples 1 (Frame:1758).
+[2020.02.20-07.23.37:649][147]LogRenderer: Reallocating scene render targets to support 1272x784 Format 10 NumSamples 1 (Frame:1760).
+[2020.02.20-07.23.37:689][148]LogRenderer: Reallocating scene render targets to support 1284x784 Format 10 NumSamples 1 (Frame:1762).
+[2020.02.20-07.23.37:734][149]LogRenderer: Reallocating scene render targets to support 1296x784 Format 10 NumSamples 1 (Frame:1764).
+[2020.02.20-07.23.37:775][150]LogRenderer: Reallocating scene render targets to support 1308x784 Format 10 NumSamples 1 (Frame:1766).
+[2020.02.20-07.23.37:818][151]LogRenderer: Reallocating scene render targets to support 1316x784 Format 10 NumSamples 1 (Frame:1768).
+[2020.02.20-07.23.37:856][152]LogRenderer: Reallocating scene render targets to support 1320x784 Format 10 NumSamples 1 (Frame:1770).
+[2020.02.20-07.23.37:893][153]LogRenderer: Reallocating scene render targets to support 1324x784 Format 10 NumSamples 1 (Frame:1772).
+[2020.02.20-07.23.52:853][906]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd
+[2020.02.20-07.23.53:755][906]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2020.02.20-07.23.54:869][906]LogSlate: Took 0.028347 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.20-07.23.55:203][907]LogSlate: Took 0.006156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.20-07.24.00:336][294]LogSlate: Window 'labiryntMdd - Level Blueprint Editor' being destroyed
+[2020.02.20-07.24.06:472][ 27]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.20-07.24.06:487][ 27]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.24.06:487][ 27]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.20-07.24.06:488][ 27]PIE: New page: PIE session: labiryntMdd (20 lut 2020, 09:24:06)
+[2020.02.20-07.24.06:488][ 27]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_labiryntMdd
+[2020.02.20-07.24.06:490][ 27]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002189s)
+[2020.02.20-07.24.06:492][ 27]LogAIModule: Creating AISystem for world labiryntMdd
+[2020.02.20-07.24.06:493][ 27]LogPlayLevel: PIE: World Init took: (0.002757s)
+[2020.02.20-07.24.06:493][ 27]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/labiryntMdd.labiryntMdd to /Game/UEDPIE_0_labiryntMdd.labiryntMdd (0.005094s)
+[2020.02.20-07.24.06:539][ 27]LogInit: XAudio2 using 'G2460 (2 — NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.20-07.24.06:550][ 27]LogInit: FAudioDevice initialized.
+[2020.02.20-07.24.06:586][ 27]LogLoad: Game class is 'GameModeBase'
+[2020.02.20-07.24.06:587][ 27]LogWorld: Bringing World /Game/UEDPIE_0_labiryntMdd.labiryntMdd up for play (max tick rate 0) at 2020.02.20-08.24.06
+[2020.02.20-07.24.06:587][ 27]LogWorld: Bringing up level for play took: 0.000576
+[2020.02.20-07.24.06:600][ 27]PIE: Play in editor start time for /Game/UEDPIE_0_labiryntMdd -0,581
+[2020.02.20-07.24.06:600][ 27]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.24.22:128][886]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.24.22:128][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-07.24.22:180][886]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.20-07.24.22:180][886]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.24.22:208][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-07.24.22:231][888]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.02.20-07.24.25:679][295]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-07.24.25:762][305]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.20-07.24.25:779][305]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.24.25:779][305]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.20-07.24.25:779][305]PIE: New page: PIE session: labiryntMdd (20 lut 2020, 09:24:25)
+[2020.02.20-07.24.25:779][305]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_labiryntMdd
+[2020.02.20-07.24.25:781][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002513s)
+[2020.02.20-07.24.25:782][305]LogAIModule: Creating AISystem for world labiryntMdd
+[2020.02.20-07.24.25:782][305]LogPlayLevel: PIE: World Init took: (0.000652s)
+[2020.02.20-07.24.25:782][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/labiryntMdd.labiryntMdd to /Game/UEDPIE_0_labiryntMdd.labiryntMdd (0.003295s)
+[2020.02.20-07.24.25:823][305]LogInit: XAudio2 using 'G2460 (2 — NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.20-07.24.25:833][305]LogInit: FAudioDevice initialized.
+[2020.02.20-07.24.25:863][305]LogLoad: Game class is 'GameModeBase'
+[2020.02.20-07.24.25:864][305]LogWorld: Bringing World /Game/UEDPIE_0_labiryntMdd.labiryntMdd up for play (max tick rate 0) at 2020.02.20-08.24.25
+[2020.02.20-07.24.25:864][305]LogWorld: Bringing up level for play took: 0.000586
+[2020.02.20-07.24.25:877][305]PIE: Play in editor start time for /Game/UEDPIE_0_labiryntMdd 0,695
+[2020.02.20-07.24.25:877][305]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.24.40:606][868]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.24.40:606][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-07.24.40:644][868]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.20-07.24.40:644][868]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.24.40:671][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-07.24.40:719][870]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.02.20-07.24.42:036][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-07.28.31:246][878]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-07.28.31:370][893]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.20-07.28.31:386][893]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.28.31:386][893]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.20-07.28.31:386][893]PIE: New page: PIE session: labiryntMdd (20 lut 2020, 09:28:31)
+[2020.02.20-07.28.31:386][893]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_labiryntMdd
+[2020.02.20-07.28.31:389][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002721s)
+[2020.02.20-07.28.31:390][893]LogAIModule: Creating AISystem for world labiryntMdd
+[2020.02.20-07.28.31:390][893]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2020.02.20-07.28.31:390][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/labiryntMdd.labiryntMdd to /Game/UEDPIE_0_labiryntMdd.labiryntMdd (0.003622s)
+[2020.02.20-07.28.31:433][893]LogInit: XAudio2 using 'G2460 (2 — NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.20-07.28.31:446][893]LogInit: FAudioDevice initialized.
+[2020.02.20-07.28.31:482][893]LogLoad: Game class is 'GameModeBase'
+[2020.02.20-07.28.31:483][893]LogWorld: Bringing World /Game/UEDPIE_0_labiryntMdd.labiryntMdd up for play (max tick rate 0) at 2020.02.20-08.28.31
+[2020.02.20-07.28.31:484][893]LogWorld: Bringing up level for play took: 0.000914
+[2020.02.20-07.28.31:497][893]PIE: Play in editor start time for /Game/UEDPIE_0_labiryntMdd 0,315
+[2020.02.20-07.28.31:497][893]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.28.42:633][226]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.28.42:633][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-07.28.42:672][226]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.20-07.28.42:672][226]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.28.42:699][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-07.28.42:746][228]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.02.20-07.29.07:593][555]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-07.32.16:717][968]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.20-07.32.16:733][968]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.32.16:733][968]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.20-07.32.16:733][968]PIE: New page: PIE session: labiryntMdd (20 lut 2020, 09:32:16)
+[2020.02.20-07.32.16:733][968]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_labiryntMdd
+[2020.02.20-07.32.16:735][968]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002387s)
+[2020.02.20-07.32.16:736][968]LogAIModule: Creating AISystem for world labiryntMdd
+[2020.02.20-07.32.16:736][968]LogPlayLevel: PIE: World Init took: (0.000756s)
+[2020.02.20-07.32.16:736][968]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/labiryntMdd.labiryntMdd to /Game/UEDPIE_0_labiryntMdd.labiryntMdd (0.003267s)
+[2020.02.20-07.32.16:777][968]LogInit: XAudio2 using 'G2460 (2 — NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.20-07.32.16:791][968]LogInit: FAudioDevice initialized.
+[2020.02.20-07.32.16:822][968]LogLoad: Game class is 'GameModeBase'
+[2020.02.20-07.32.16:825][968]LogWorld: Bringing World /Game/UEDPIE_0_labiryntMdd.labiryntMdd up for play (max tick rate 0) at 2020.02.20-08.32.16
+[2020.02.20-07.32.16:825][968]LogWorld: Bringing up level for play took: 0.001222
+[2020.02.20-07.32.16:841][968]PIE: Play in editor start time for /Game/UEDPIE_0_labiryntMdd -0,34
+[2020.02.20-07.32.16:842][968]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.32.29:501][479]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.32.29:501][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-07.32.29:535][479]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.20-07.32.29:536][479]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.32.29:562][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-07.32.29:608][482]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.02.20-07.32.31:350][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-07.34.57:433][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/labiryntMdd" FILE="../../../../../MD/Unreal Project/LabiryntMD/Saved/Autosaves/Game/labiryntMdd_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.02.20-07.34.57:665][  8]LogSavePackage: Moving '../../../../../MD/Unreal Project/LabiryntMD/Saved/labiryntMdd_Auto1358A3EE7475E33E958618EB082E07D95.tmp' to '../../../../../MD/Unreal Project/LabiryntMD/Saved/Autosaves/Game/labiryntMdd_Auto1.umap'
+[2020.02.20-07.34.57:690][  8]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/labiryntMdd' took 0.322
+[2020.02.20-07.34.57:690][  8]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.322
+[2020.02.20-07.35.36:751][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/labiryntMdd" FILE="../../../../../MD/Unreal Project/LabiryntMD/Content/labiryntMdd.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.20-07.35.36:914][624]LogSavePackage: Moving '../../../../../MD/Unreal Project/LabiryntMD/Saved/labiryntMddB3E8F78D41CE1AF4C99C179BB51F031C.tmp' to '../../../../../MD/Unreal Project/LabiryntMD/Content/labiryntMdd.umap'
+[2020.02.20-07.35.36:946][624]LogFileHelpers: Saving map 'labiryntMdd' took 0.244
+[2020.02.20-07.39.20:522][279]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.20-07.39.20:541][279]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.39.20:541][279]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.20-07.39.20:543][279]LogPlayLevel: [PlayLevel] Compiling labiryntMdd before play...
+[2020.02.20-07.39.20:661][279]LogPlayLevel: PlayLevel: Blueprint regeneration took 120 ms (1 blueprints)
+[2020.02.20-07.39.20:661][279]PIE: New page: PIE session: labiryntMdd (20 lut 2020, 09:39:20)
+[2020.02.20-07.39.20:661][279]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_labiryntMdd
+[2020.02.20-07.39.20:664][279]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002511s)
+[2020.02.20-07.39.20:665][279]LogAIModule: Creating AISystem for world labiryntMdd
+[2020.02.20-07.39.20:665][279]LogPlayLevel: PIE: World Init took: (0.001055s)
+[2020.02.20-07.39.20:665][279]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/labiryntMdd.labiryntMdd to /Game/UEDPIE_0_labiryntMdd.labiryntMdd (0.003684s)
+[2020.02.20-07.39.20:709][279]LogInit: XAudio2 using 'G2460 (2 — NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.20-07.39.20:724][279]LogInit: FAudioDevice initialized.
+[2020.02.20-07.39.20:757][279]LogLoad: Game class is 'GameModeBase'
+[2020.02.20-07.39.20:758][279]LogWorld: Bringing World /Game/UEDPIE_0_labiryntMdd.labiryntMdd up for play (max tick rate 0) at 2020.02.20-08.39.20
+[2020.02.20-07.39.20:758][279]LogWorld: Bringing up level for play took: 0.000874
+[2020.02.20-07.39.20:772][279]PIE: Play in editor start time for /Game/UEDPIE_0_labiryntMdd -0,41
+[2020.02.20-07.39.20:772][279]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.39.30:616][458]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.39.30:616][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-07.39.30:655][458]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.20-07.39.30:655][458]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.39.30:684][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-07.39.30:724][460]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.02.20-07.39.32:307][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-07.40.22:581][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/labiryntMdd" FILE="../../../../../MD/Unreal Project/LabiryntMD/Content/labiryntMdd.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.20-07.40.22:756][670]LogSavePackage: Moving '../../../../../MD/Unreal Project/LabiryntMD/Saved/labiryntMdd0877E89C4DAE5070845B0296574E3143.tmp' to '../../../../../MD/Unreal Project/LabiryntMD/Content/labiryntMdd.umap'
+[2020.02.20-07.40.22:781][670]LogFileHelpers: Saving map 'labiryntMdd' took 0.251
+[2020.02.20-07.40.24:659][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/labiryntMdd" FILE="../../../../../MD/Unreal Project/LabiryntMD/Content/labiryntMdd.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.20-07.40.24:815][893]LogSavePackage: Moving '../../../../../MD/Unreal Project/LabiryntMD/Saved/labiryntMddDE0D5AB4488D47FD81455B8D7338A58E.tmp' to '../../../../../MD/Unreal Project/LabiryntMD/Content/labiryntMdd.umap'
+[2020.02.20-07.40.24:845][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/labiryntMdd_BuiltData" FILE="../../../../../MD/Unreal Project/LabiryntMD/Content/labiryntMdd_BuiltData.uasset" SILENT=true
+[2020.02.20-07.40.24:887][893]LogSavePackage: Moving '../../../../../MD/Unreal Project/LabiryntMD/Saved/labiryntMdd_BuiltData6791FA21470AC3C7F3CAC58033C8EDAE.tmp' to '../../../../../MD/Unreal Project/LabiryntMD/Content/labiryntMdd_BuiltData.uasset'
+[2020.02.20-07.40.35:303][140]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.20-07.40.35:490][140]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.20-07.40.37:585][371]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.20-07.40.37:599][371]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.40.37:599][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.20-07.40.37:599][371]PIE: New page: PIE session: labiryntMdd (20 lut 2020, 09:40:37)
+[2020.02.20-07.40.37:599][371]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_labiryntMdd
+[2020.02.20-07.40.37:602][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002366s)
+[2020.02.20-07.40.37:602][371]LogAIModule: Creating AISystem for world labiryntMdd
+[2020.02.20-07.40.37:603][371]LogPlayLevel: PIE: World Init took: (0.000853s)
+[2020.02.20-07.40.37:603][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/labiryntMdd.labiryntMdd to /Game/UEDPIE_0_labiryntMdd.labiryntMdd (0.003356s)
+[2020.02.20-07.40.37:647][371]LogInit: XAudio2 using 'G2460 (2 — NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.20-07.40.37:658][371]LogInit: FAudioDevice initialized.
+[2020.02.20-07.40.37:687][371]LogLoad: Game class is 'GameModeBase'
+[2020.02.20-07.40.37:688][371]LogWorld: Bringing World /Game/UEDPIE_0_labiryntMdd.labiryntMdd up for play (max tick rate 0) at 2020.02.20-08.40.37
+[2020.02.20-07.40.37:689][371]LogWorld: Bringing up level for play took: 0.000664
+[2020.02.20-07.40.37:702][371]PIE: Play in editor start time for /Game/UEDPIE_0_labiryntMdd 0,52
+[2020.02.20-07.40.37:702][371]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.40.43:628][ 79]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.40.43:628][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-07.40.43:667][ 79]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.20-07.40.43:667][ 79]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.40.43:696][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-07.40.43:736][ 81]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.02.20-07.40.46:602][424]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.20-07.40.47:573][535]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.20-07.40.47:587][535]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.40.47:587][535]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.20-07.40.47:587][535]PIE: New page: PIE session: labiryntMdd (20 lut 2020, 09:40:47)
+[2020.02.20-07.40.47:587][535]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_labiryntMdd
+[2020.02.20-07.40.47:589][535]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002622s)
+[2020.02.20-07.40.47:590][535]LogAIModule: Creating AISystem for world labiryntMdd
+[2020.02.20-07.40.47:590][535]LogPlayLevel: PIE: World Init took: (0.000751s)
+[2020.02.20-07.40.47:590][535]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/labiryntMdd.labiryntMdd to /Game/UEDPIE_0_labiryntMdd.labiryntMdd (0.003509s)
+[2020.02.20-07.40.47:633][535]LogInit: XAudio2 using 'G2460 (2 — NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.20-07.40.47:645][535]LogInit: FAudioDevice initialized.
+[2020.02.20-07.40.47:645][535]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.20-07.40.47:681][535]LogLoad: Game class is 'GameModeBase'
+[2020.02.20-07.40.47:682][535]LogWorld: Bringing World /Game/UEDPIE_0_labiryntMdd.labiryntMdd up for play (max tick rate 0) at 2020.02.20-08.40.47
+[2020.02.20-07.40.47:682][535]LogWorld: Bringing up level for play took: 0.000628
+[2020.02.20-07.40.47:695][535]PIE: Play in editor start time for /Game/UEDPIE_0_labiryntMdd 0,513
+[2020.02.20-07.40.47:695][535]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.40.55:844][510]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.40.55:844][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-07.40.55:884][510]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.20-07.40.55:885][510]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.40.55:944][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-07.40.55:962][511]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.02.20-07.40.57:390][681]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.20-07.40.58:636][826]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.20-07.41.04:835][565]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.20-07.41.05:740][670]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.20-07.41.05:754][670]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.41.05:754][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.20-07.41.05:754][670]PIE: New page: PIE session: labiryntMdd (20 lut 2020, 09:41:05)
+[2020.02.20-07.41.05:754][670]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_labiryntMdd
+[2020.02.20-07.41.05:757][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002398s)
+[2020.02.20-07.41.05:757][670]LogAIModule: Creating AISystem for world labiryntMdd
+[2020.02.20-07.41.05:757][670]LogPlayLevel: PIE: World Init took: (0.000685s)
+[2020.02.20-07.41.05:757][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/labiryntMdd.labiryntMdd to /Game/UEDPIE_0_labiryntMdd.labiryntMdd (0.003206s)
+[2020.02.20-07.41.05:799][670]LogInit: XAudio2 using 'G2460 (2 — NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.20-07.41.05:811][670]LogInit: FAudioDevice initialized.
+[2020.02.20-07.41.05:811][670]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.20-07.41.05:842][670]LogLoad: Game class is 'GameModeBase'
+[2020.02.20-07.41.05:843][670]LogWorld: Bringing World /Game/UEDPIE_0_labiryntMdd.labiryntMdd up for play (max tick rate 0) at 2020.02.20-08.41.05
+[2020.02.20-07.41.05:844][670]LogWorld: Bringing up level for play took: 0.000573
+[2020.02.20-07.41.05:857][670]PIE: Play in editor start time for /Game/UEDPIE_0_labiryntMdd 0,675
+[2020.02.20-07.41.05:857][670]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.41.20:183][386]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.41.20:183][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-07.41.20:221][386]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.20-07.41.20:221][386]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.41.20:249][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-07.41.20:291][388]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.02.20-07.41.21:184][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-07.41.47:277][622]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.20-07.41.47:293][622]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.41.47:293][622]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.20-07.41.47:293][622]PIE: New page: PIE session: labiryntMdd (20 lut 2020, 09:41:47)
+[2020.02.20-07.41.47:293][622]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_labiryntMdd
+[2020.02.20-07.41.47:296][622]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002799s)
+[2020.02.20-07.41.47:296][622]LogAIModule: Creating AISystem for world labiryntMdd
+[2020.02.20-07.41.47:297][622]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2020.02.20-07.41.47:297][622]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/labiryntMdd.labiryntMdd to /Game/UEDPIE_0_labiryntMdd.labiryntMdd (0.003796s)
+[2020.02.20-07.41.47:338][622]LogInit: XAudio2 using 'G2460 (2 — NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.20-07.41.47:350][622]LogInit: FAudioDevice initialized.
+[2020.02.20-07.41.47:382][622]LogLoad: Game class is 'GameModeBase'
+[2020.02.20-07.41.47:384][622]LogWorld: Bringing World /Game/UEDPIE_0_labiryntMdd.labiryntMdd up for play (max tick rate 0) at 2020.02.20-08.41.47
+[2020.02.20-07.41.47:384][622]LogWorld: Bringing up level for play took: 0.000721
+[2020.02.20-07.41.47:397][622]PIE: Play in editor start time for /Game/UEDPIE_0_labiryntMdd 0,215
+[2020.02.20-07.41.47:397][622]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.41.49:144][829]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.41.49:144][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-07.41.49:181][829]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.20-07.41.49:181][829]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.41.49:208][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-07.41.49:250][831]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.02.20-07.41.53:235][307]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.20-07.42.08:856][153]Cmd: STAT FPS
+[2020.02.20-07.42.14:115][779]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.20-07.42.14:130][779]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.42.14:130][779]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.20-07.42.14:130][779]PIE: New page: PIE session: labiryntMdd (20 lut 2020, 09:42:14)
+[2020.02.20-07.42.14:130][779]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_labiryntMdd
+[2020.02.20-07.42.14:133][779]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002658s)
+[2020.02.20-07.42.14:133][779]LogAIModule: Creating AISystem for world labiryntMdd
+[2020.02.20-07.42.14:133][779]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2020.02.20-07.42.14:134][779]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/labiryntMdd.labiryntMdd to /Game/UEDPIE_0_labiryntMdd.labiryntMdd (0.003643s)
+[2020.02.20-07.42.14:174][779]LogInit: XAudio2 using 'G2460 (2 — NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.20-07.42.14:185][779]LogInit: FAudioDevice initialized.
+[2020.02.20-07.42.14:221][779]LogLoad: Game class is 'GameModeBase'
+[2020.02.20-07.42.14:223][779]LogWorld: Bringing World /Game/UEDPIE_0_labiryntMdd.labiryntMdd up for play (max tick rate 0) at 2020.02.20-08.42.14
+[2020.02.20-07.42.14:223][779]LogWorld: Bringing up level for play took: 0.000607
+[2020.02.20-07.42.14:236][779]PIE: Play in editor start time for /Game/UEDPIE_0_labiryntMdd 1,054
+[2020.02.20-07.42.14:236][779]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.42.23:019][830]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.42.23:019][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-07.42.23:053][830]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.20-07.42.23:054][830]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.42.23:081][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-07.42.23:119][832]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.02.20-07.44.07:071][168]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-07.53.41:596][838]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.20-07.53.41:611][838]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.53.41:611][838]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.20-07.53.41:613][838]LogPlayLevel: [PlayLevel] Compiling labiryntMdd before play...
+[2020.02.20-07.53.41:735][838]LogPlayLevel: PlayLevel: Blueprint regeneration took 124 ms (1 blueprints)
+[2020.02.20-07.53.41:736][838]PIE: New page: PIE session: labiryntMdd (20 lut 2020, 09:53:41)
+[2020.02.20-07.53.41:736][838]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_labiryntMdd
+[2020.02.20-07.53.41:738][838]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002245s)
+[2020.02.20-07.53.41:739][838]LogAIModule: Creating AISystem for world labiryntMdd
+[2020.02.20-07.53.41:739][838]LogPlayLevel: PIE: World Init took: (0.001207s)
+[2020.02.20-07.53.41:739][838]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/labiryntMdd.labiryntMdd to /Game/UEDPIE_0_labiryntMdd.labiryntMdd (0.003661s)
+[2020.02.20-07.53.41:782][838]LogInit: XAudio2 using 'G2460 (2 — NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.20-07.53.41:798][838]LogInit: FAudioDevice initialized.
+[2020.02.20-07.53.41:815][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-07.53.41:850][838]LogLoad: Game class is 'GameModeBase'
+[2020.02.20-07.53.41:851][838]LogWorld: Bringing World /Game/UEDPIE_0_labiryntMdd.labiryntMdd up for play (max tick rate 0) at 2020.02.20-08.53.41
+[2020.02.20-07.53.41:852][838]LogWorld: Bringing up level for play took: 0.000772
+[2020.02.20-07.53.41:865][838]PIE: Play in editor start time for /Game/UEDPIE_0_labiryntMdd 0,683
+[2020.02.20-07.53.41:866][838]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.53.49:023][687]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.53.49:023][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-07.53.49:039][687]LogSlate: Window 'LabiryntMD Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.20-07.53.49:076][687]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.20-07.53.49:076][687]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.53.49:123][688]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.02.20-07.58.34:448][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/labiryntMdd" FILE="../../../../../MD/Unreal Project/LabiryntMD/Content/labiryntMdd.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.20-07.58.34:655][909]LogSavePackage: Moving '../../../../../MD/Unreal Project/LabiryntMD/Saved/labiryntMdd30C1D465480FF800440417B2132F856B.tmp' to '../../../../../MD/Unreal Project/LabiryntMD/Content/labiryntMdd.umap'
+[2020.02.20-07.58.34:682][909]LogFileHelpers: Saving map 'labiryntMdd' took 0.282
+[2020.02.20-07.58.37:526][230]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.20-07.58.37:543][230]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.58.37:543][230]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.20-07.58.37:543][230]PIE: New page: PIE session: labiryntMdd (20 lut 2020, 09:58:37)
+[2020.02.20-07.58.37:543][230]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_labiryntMdd
+[2020.02.20-07.58.37:546][230]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002432s)
+[2020.02.20-07.58.37:546][230]LogAIModule: Creating AISystem for world labiryntMdd
+[2020.02.20-07.58.37:546][230]LogPlayLevel: PIE: World Init took: (0.000843s)
+[2020.02.20-07.58.37:547][230]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/labiryntMdd.labiryntMdd to /Game/UEDPIE_0_labiryntMdd.labiryntMdd (0.003419s)
+[2020.02.20-07.58.37:588][230]LogInit: XAudio2 using 'G2460 (2 — NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.20-07.58.37:602][230]LogInit: FAudioDevice initialized.
+[2020.02.20-07.58.37:633][230]LogLoad: Game class is 'GameModeBase'
+[2020.02.20-07.58.37:634][230]LogWorld: Bringing World /Game/UEDPIE_0_labiryntMdd.labiryntMdd up for play (max tick rate 0) at 2020.02.20-08.58.37
+[2020.02.20-07.58.37:634][230]LogWorld: Bringing up level for play took: 0.000629
+[2020.02.20-07.58.37:647][230]PIE: Play in editor start time for /Game/UEDPIE_0_labiryntMdd 0,465
+[2020.02.20-07.58.37:647][230]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.59.03:031][273]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.59.03:032][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-07.59.03:072][273]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.20-07.59.03:072][273]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-07.59.03:098][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-07.59.03:136][275]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.02.20-07.59.04:233][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-08.00.21:532][588]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.20-08.00.21:548][588]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.00.21:548][588]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.20-08.00.21:548][588]PIE: New page: PIE session: labiryntMdd (20 lut 2020, 10:00:21)
+[2020.02.20-08.00.21:549][588]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_labiryntMdd
+[2020.02.20-08.00.21:551][588]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002184s)
+[2020.02.20-08.00.21:551][588]LogAIModule: Creating AISystem for world labiryntMdd
+[2020.02.20-08.00.21:551][588]LogPlayLevel: PIE: World Init took: (0.000662s)
+[2020.02.20-08.00.21:552][588]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/labiryntMdd.labiryntMdd to /Game/UEDPIE_0_labiryntMdd.labiryntMdd (0.002964s)
+[2020.02.20-08.00.21:593][588]LogInit: XAudio2 using 'G2460 (2 — NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.20-08.00.21:604][588]LogInit: FAudioDevice initialized.
+[2020.02.20-08.00.21:639][588]LogLoad: Game class is 'GameModeBase'
+[2020.02.20-08.00.21:640][588]LogWorld: Bringing World /Game/UEDPIE_0_labiryntMdd.labiryntMdd up for play (max tick rate 0) at 2020.02.20-09.00.21
+[2020.02.20-08.00.21:640][588]LogWorld: Bringing up level for play took: 0.000823
+[2020.02.20-08.00.21:654][588]PIE: Play in editor start time for /Game/UEDPIE_0_labiryntMdd 0,472
+[2020.02.20-08.00.21:654][588]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.01.54:462][714]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.01.54:462][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-08.01.54:498][714]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.20-08.01.54:498][714]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.01.54:525][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-08.01.54:564][716]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.02.20-08.01.56:014][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-08.10.32:730][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/labiryntMdd" FILE="../../../../../MD/Unreal Project/LabiryntMD/Saved/Autosaves/Game/labiryntMdd_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.02.20-08.10.32:866][826]LogSavePackage: Moving '../../../../../MD/Unreal Project/LabiryntMD/Saved/labiryntMdd_Auto2D08149E545C1F2D7665AD0BE5B1F6D3E.tmp' to '../../../../../MD/Unreal Project/LabiryntMD/Saved/Autosaves/Game/labiryntMdd_Auto2.umap'
+[2020.02.20-08.10.32:868][826]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/labiryntMdd' took 0.165
+[2020.02.20-08.10.32:868][826]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.165
+[2020.02.20-08.19.30:063][133]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.20-08.19.30:079][133]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.19.30:079][133]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.20-08.19.30:079][133]PIE: New page: PIE session: labiryntMdd (20 lut 2020, 10:19:30)
+[2020.02.20-08.19.30:079][133]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_labiryntMdd
+[2020.02.20-08.19.30:082][133]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002834s)
+[2020.02.20-08.19.30:083][133]LogAIModule: Creating AISystem for world labiryntMdd
+[2020.02.20-08.19.30:083][133]LogPlayLevel: PIE: World Init took: (0.001198s)
+[2020.02.20-08.19.30:083][133]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/labiryntMdd.labiryntMdd to /Game/UEDPIE_0_labiryntMdd.labiryntMdd (0.004169s)
+[2020.02.20-08.19.30:121][133]LogInit: XAudio2 using 'G2460 (2 — NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.20-08.19.30:136][133]LogInit: FAudioDevice initialized.
+[2020.02.20-08.19.30:154][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-08.19.30:189][133]LogLoad: Game class is 'GameModeBase'
+[2020.02.20-08.19.30:191][133]LogWorld: Bringing World /Game/UEDPIE_0_labiryntMdd.labiryntMdd up for play (max tick rate 0) at 2020.02.20-09.19.30
+[2020.02.20-08.19.30:191][133]LogWorld: Bringing up level for play took: 0.000822
+[2020.02.20-08.19.30:205][133]PIE: Play in editor start time for /Game/UEDPIE_0_labiryntMdd 1,023
+[2020.02.20-08.19.30:205][133]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.19.38:583][127]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.19.38:583][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-08.19.38:599][127]LogSlate: Window 'LabiryntMD Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.20-08.19.38:639][127]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.20-08.19.38:639][127]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.19.38:688][128]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.02.20-08.19.40:647][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.20-08.19.49:948][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-08.19.52:069][438]LogAssetEditorManager: Opening Asset editor for Material /Game/StarterContent/Materials/M_Concrete_Tiles.M_Concrete_Tiles
+[2020.02.20-08.19.52:093][438]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2020.02.20-08.19.52:951][438]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2020.02.20-08.19.53:001][438]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2020.02.20-08.19.53:035][438]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.20-08.19.53:035][438]LogShaderCompilers: Display: Shaders left to compile 29
+[2020.02.20-08.19.53:035][438]LogShaderCompilers: Display: Shaders left to compile 28
+[2020.02.20-08.19.53:062][438]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_31, compiling. 
+[2020.02.20-08.19.53:069][438]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.02.20-08.19.53:075][438]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2020.02.20-08.19.53:082][438]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.02.20-08.19.53:089][438]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2020.02.20-08.19.53:095][438]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.02.20-08.19.53:101][438]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.02.20-08.19.53:106][438]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2020.02.20-08.19.54:577][576]LogShaderCompilers: Display: Shaders left to compile 43
+[2020.02.20-08.19.54:721][583]LogShaderCompilers: Display: Shaders left to compile 42
+[2020.02.20-08.19.54:743][585]LogShaderCompilers: Display: Shaders left to compile 41
+[2020.02.20-08.19.55:117][625]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.02.20-08.19.55:188][633]LogShaderCompilers: Display: Shaders left to compile 39
+[2020.02.20-08.19.55:328][649]LogShaderCompilers: Display: Shaders left to compile 38
+[2020.02.20-08.19.55:454][664]LogShaderCompilers: Display: Shaders left to compile 37
+[2020.02.20-08.19.55:482][667]LogShaderCompilers: Display: Shaders left to compile 36
+[2020.02.20-08.19.55:637][684]LogShaderCompilers: Display: Shaders left to compile 35
+[2020.02.20-08.19.56:234][751]LogShaderCompilers: Display: Shaders left to compile 34
+[2020.02.20-08.19.56:324][761]LogShaderCompilers: Display: Shaders left to compile 33
+[2020.02.20-08.19.56:428][770]LogShaderCompilers: Display: Shaders left to compile 32
+[2020.02.20-08.19.56:927][826]LogShaderCompilers: Display: Shaders left to compile 31
+[2020.02.20-08.19.56:986][833]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.20-08.19.57:140][850]LogShaderCompilers: Display: Shaders left to compile 29
+[2020.02.20-08.19.57:662][906]LogShaderCompilers: Display: Shaders left to compile 28
+[2020.02.20-08.19.57:712][912]LogShaderCompilers: Display: Shaders left to compile 27
+[2020.02.20-08.19.57:887][929]LogShaderCompilers: Display: Shaders left to compile 26
+[2020.02.20-08.19.58:459][993]LogShaderCompilers: Display: Shaders left to compile 25
+[2020.02.20-08.19.58:709][ 22]LogShaderCompilers: Display: Shaders left to compile 24
+[2020.02.20-08.19.58:726][ 24]LogShaderCompilers: Display: Shaders left to compile 23
+[2020.02.20-08.19.59:291][ 88]LogShaderCompilers: Display: Shaders left to compile 22
+[2020.02.20-08.19.59:404][101]LogShaderCompilers: Display: Shaders left to compile 21
+[2020.02.20-08.19.59:755][138]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.20-08.20.00:393][209]LogShaderCompilers: Display: Shaders left to compile 19
+[2020.02.20-08.20.00:567][229]LogShaderCompilers: Display: Shaders left to compile 18
+[2020.02.20-08.20.00:630][236]LogShaderCompilers: Display: Shaders left to compile 17
+[2020.02.20-08.20.01:046][284]Cmd: TRANSACTION UNDO
+[2020.02.20-08.20.01:046][284]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.20-08.20.01:057][284]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2020.02.20-08.20.01:160][285]LogShaderCompilers: Display: Shaders left to compile 46
+[2020.02.20-08.20.01:160][285]LogShaderCompilers: Display: Shaders left to compile 45
+[2020.02.20-08.20.01:310][295]LogShaderCompilers: Display: Shaders left to compile 44
+[2020.02.20-08.20.01:648][324]Cmd: TRANSACTION UNDO
+[2020.02.20-08.20.01:648][324]LogEditorTransaction: Undo Move Node
+[2020.02.20-08.20.01:663][324]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2020.02.20-08.20.01:739][325]LogShaderCompilers: Display: Shaders left to compile 43
+[2020.02.20-08.20.01:809][333]LogShaderCompilers: Display: Shaders left to compile 42
+[2020.02.20-08.20.01:990][354]LogShaderCompilers: Display: Shaders left to compile 41
+[2020.02.20-08.20.02:077][364]LogEditorTransaction: Undo Move Node
+[2020.02.20-08.20.02:083][364]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2020.02.20-08.20.02:155][365]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.02.20-08.20.02:422][396]LogShaderCompilers: Display: Shaders left to compile 39
+[2020.02.20-08.20.02:432][397]LogShaderCompilers: Display: Shaders left to compile 38
+[2020.02.20-08.20.02:460][400]LogEditorTransaction: Undo Move Node
+[2020.02.20-08.20.02:467][400]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2020.02.20-08.20.02:739][423]LogEditorTransaction: Undo Move Node
+[2020.02.20-08.20.02:747][423]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2020.02.20-08.20.02:821][424]LogShaderCompilers: Display: Shaders left to compile 37
+[2020.02.20-08.20.02:848][427]LogShaderCompilers: Display: Shaders left to compile 36
+[2020.02.20-08.20.02:944][438]LogEditorTransaction: Undo Move Node
+[2020.02.20-08.20.02:951][438]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2020.02.20-08.20.03:051][442]LogShaderCompilers: Display: Shaders left to compile 35
+[2020.02.20-08.20.03:171][456]LogEditorTransaction: Undo Move Node
+[2020.02.20-08.20.03:178][456]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2020.02.20-08.20.03:197][456]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.02.20-08.20.03:382][472]LogEditorTransaction: Undo Move Node
+[2020.02.20-08.20.03:391][472]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2020.02.20-08.20.03:465][473]LogShaderCompilers: Display: Shaders left to compile 33
+[2020.02.20-08.20.03:545][482]LogShaderCompilers: Display: Shaders left to compile 32
+[2020.02.20-08.20.03:607][489]LogEditorTransaction: Undo Move Node
+[2020.02.20-08.20.03:614][489]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2020.02.20-08.20.03:775][498]LogShaderCompilers: Display: Shaders left to compile 31
+[2020.02.20-08.20.04:006][521]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.20-08.20.04:400][563]LogShaderCompilers: Display: Shaders left to compile 29
+[2020.02.20-08.20.04:549][574]LogShaderCompilers: Display: Shaders left to compile 28
+[2020.02.20-08.20.04:550][574]LogShaderCompilers: Display: Shaders left to compile 27
+[2020.02.20-08.20.04:888][613]LogShaderCompilers: Display: Shaders left to compile 26
+[2020.02.20-08.20.05:036][630]LogShaderCompilers: Display: Shaders left to compile 25
+[2020.02.20-08.20.05:046][631]LogShaderCompilers: Display: Shaders left to compile 24
+[2020.02.20-08.20.05:334][663]LogShaderCompilers: Display: Shaders left to compile 23
+[2020.02.20-08.20.05:528][686]LogShaderCompilers: Display: Shaders left to compile 22
+[2020.02.20-08.20.05:580][692]LogShaderCompilers: Display: Shaders left to compile 21
+[2020.02.20-08.20.05:645][699]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.20-08.20.06:085][750]LogShaderCompilers: Display: Shaders left to compile 19
+[2020.02.20-08.20.06:652][810]LogShaderCompilers: Display: Shaders left to compile 18
+[2020.02.20-08.20.06:716][817]LogShaderCompilers: Display: Shaders left to compile 17
+[2020.02.20-08.20.06:767][823]LogShaderCompilers: Display: Shaders left to compile 16
+[2020.02.20-08.20.07:329][889]LogShaderCompilers: Display: Shaders left to compile 15
+[2020.02.20-08.20.07:373][894]LogShaderCompilers: Display: Shaders left to compile 14
+[2020.02.20-08.20.07:581][918]LogShaderCompilers: Display: Shaders left to compile 13
+[2020.02.20-08.20.08:028][970]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.02.20-08.20.08:127][981]LogShaderCompilers: Display: Shaders left to compile 11
+[2020.02.20-08.20.08:280][999]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.20-08.20.08:672][ 45]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.02.20-08.20.08:774][ 57]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.02.20-08.20.09:041][ 88]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.02.20-08.20.09:391][129]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.02.20-08.20.09:525][145]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.02.20-08.20.09:613][155]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.02.20-08.20.10:111][213]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.02.20-08.20.10:154][218]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.02.20-08.20.10:428][250]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.02.20-08.20.10:911][306]MaterialEditorStats: Base pass shader: 130 instructions
+[2020.02.20-08.20.10:911][306]MaterialEditorStats: Base pass shader with Surface Lightmap: 150 instructions
+[2020.02.20-08.20.10:911][306]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 207 instructions
+[2020.02.20-08.20.10:911][306]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2020.02.20-08.20.10:911][306]MaterialEditorStats: Texture samplers: 8/16
+[2020.02.20-08.20.10:911][306]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.02.20-08.20.10:911][306]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.20-08.20.33:151][948]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2020.02.20-08.20.33:174][949]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.20-08.20.33:174][949]LogShaderCompilers: Display: Shaders left to compile 29
+[2020.02.20-08.20.33:174][949]LogShaderCompilers: Display: Shaders left to compile 28
+[2020.02.20-08.20.34:150][ 60]LogShaderCompilers: Display: Shaders left to compile 27
+[2020.02.20-08.20.34:183][ 64]LogShaderCompilers: Display: Shaders left to compile 26
+[2020.02.20-08.20.34:314][ 79]LogShaderCompilers: Display: Shaders left to compile 25
+[2020.02.20-08.20.34:462][ 96]LogShaderCompilers: Display: Shaders left to compile 24
+[2020.02.20-08.20.34:557][107]LogShaderCompilers: Display: Shaders left to compile 23
+[2020.02.20-08.20.34:720][126]LogShaderCompilers: Display: Shaders left to compile 22
+[2020.02.20-08.20.34:763][131]LogShaderCompilers: Display: Shaders left to compile 21
+[2020.02.20-08.20.34:789][134]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.20-08.20.35:019][161]LogShaderCompilers: Display: Shaders left to compile 19
+[2020.02.20-08.20.35:440][210]LogShaderCompilers: Display: Shaders left to compile 18
+[2020.02.20-08.20.35:531][220]LogShaderCompilers: Display: Shaders left to compile 17
+[2020.02.20-08.20.35:632][232]LogShaderCompilers: Display: Shaders left to compile 16
+[2020.02.20-08.20.36:142][291]LogShaderCompilers: Display: Shaders left to compile 15
+[2020.02.20-08.20.36:250][303]LogShaderCompilers: Display: Shaders left to compile 14
+[2020.02.20-08.20.36:421][323]LogShaderCompilers: Display: Shaders left to compile 13
+[2020.02.20-08.20.36:893][378]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.02.20-08.20.36:961][386]LogShaderCompilers: Display: Shaders left to compile 11
+[2020.02.20-08.20.36:969][387]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.20-08.20.37:366][433]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.02.20-08.20.37:701][472]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.02.20-08.20.37:868][487]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.02.20-08.20.38:267][530]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.02.20-08.20.38:431][549]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.02.20-08.20.38:590][561]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.02.20-08.20.39:092][616]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.02.20-08.20.39:279][638]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.02.20-08.20.39:656][680]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.02.20-08.20.40:115][733]MaterialEditorStats: Base pass shader: 130 instructions
+[2020.02.20-08.20.40:116][733]MaterialEditorStats: Base pass shader with Surface Lightmap: 150 instructions
+[2020.02.20-08.20.40:116][733]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 207 instructions
+[2020.02.20-08.20.40:116][733]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2020.02.20-08.20.40:116][733]MaterialEditorStats: Texture samplers: 8/16
+[2020.02.20-08.20.40:116][733]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.02.20-08.20.40:116][733]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.20-08.20.42:572][ 21]LogEditorTransaction: Undo Move Node
+[2020.02.20-08.20.42:578][ 21]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2020.02.20-08.20.42:609][ 21]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.20-08.20.42:609][ 21]LogShaderCompilers: Display: Shaders left to compile 29
+[2020.02.20-08.20.42:609][ 21]LogShaderCompilers: Display: Shaders left to compile 28
+[2020.02.20-08.20.42:895][ 41]LogEditorTransaction: Undo Move Node
+[2020.02.20-08.20.42:902][ 41]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2020.02.20-08.20.42:987][ 41]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.20-08.20.43:089][ 51]LogShaderCompilers: Display: Shaders left to compile 29
+[2020.02.20-08.20.43:115][ 54]LogEditorTransaction: Undo Move Node
+[2020.02.20-08.20.43:122][ 54]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2020.02.20-08.20.43:140][ 54]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.20-08.20.43:338][ 71]LogEditorTransaction: Undo Move Node
+[2020.02.20-08.20.43:345][ 71]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2020.02.20-08.20.43:425][ 72]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.20-08.20.43:425][ 72]LogShaderCompilers: Display: Shaders left to compile 29
+[2020.02.20-08.20.43:578][ 90]LogEditorTransaction: Undo Move Node
+[2020.02.20-08.20.43:585][ 90]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2020.02.20-08.20.43:604][ 90]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.20-08.20.43:747][101]LogShaderCompilers: Display: Shaders left to compile 29
+[2020.02.20-08.20.43:783][105]LogEditorTransaction: Undo Move Node
+[2020.02.20-08.20.43:790][105]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2020.02.20-08.20.43:809][105]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.20-08.20.43:980][119]LogEditorTransaction: Undo Create Pin Link
+[2020.02.20-08.20.43:983][119]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2020.02.20-08.20.44:002][119]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.20-08.20.44:114][125]LogShaderCompilers: Display: Shaders left to compile 29
+[2020.02.20-08.20.44:249][141]LogShaderCompilers: Display: Shaders left to compile 28
+[2020.02.20-08.20.44:431][162]LogShaderCompilers: Display: Shaders left to compile 27
+[2020.02.20-08.20.44:681][191]LogShaderCompilers: Display: Shaders left to compile 26
+[2020.02.20-08.20.44:705][194]LogShaderCompilers: Display: Shaders left to compile 25
+[2020.02.20-08.20.44:822][208]LogShaderCompilers: Display: Shaders left to compile 24
+[2020.02.20-08.20.45:038][233]LogShaderCompilers: Display: Shaders left to compile 23
+[2020.02.20-08.20.45:048][234]LogShaderCompilers: Display: Shaders left to compile 22
+[2020.02.20-08.20.45:158][247]LogShaderCompilers: Display: Shaders left to compile 21
+[2020.02.20-08.20.45:332][267]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.20-08.20.45:442][280]LogShaderCompilers: Display: Shaders left to compile 19
+[2020.02.20-08.20.45:962][341]LogShaderCompilers: Display: Shaders left to compile 18
+[2020.02.20-08.20.45:969][342]LogShaderCompilers: Display: Shaders left to compile 17
+[2020.02.20-08.20.46:431][392]LogShaderCompilers: Display: Shaders left to compile 16
+[2020.02.20-08.20.46:909][448]LogShaderCompilers: Display: Shaders left to compile 15
+[2020.02.20-08.20.47:012][460]LogShaderCompilers: Display: Shaders left to compile 14
+[2020.02.20-08.20.47:098][470]LogShaderCompilers: Display: Shaders left to compile 13
+[2020.02.20-08.20.47:655][535]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.02.20-08.20.47:751][546]LogShaderCompilers: Display: Shaders left to compile 11
+[2020.02.20-08.20.47:969][571]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.20-08.20.48:655][646]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.02.20-08.20.48:694][650]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.02.20-08.20.48:925][675]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.02.20-08.20.49:485][739]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.02.20-08.20.49:641][757]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.02.20-08.20.49:703][764]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.02.20-08.20.50:257][827]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.02.20-08.20.50:676][874]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.02.20-08.20.50:732][880]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.02.20-08.20.51:428][959]MaterialEditorStats: Base pass shader: 130 instructions
+[2020.02.20-08.20.51:428][959]MaterialEditorStats: Base pass shader with Surface Lightmap: 150 instructions
+[2020.02.20-08.20.51:428][959]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 207 instructions
+[2020.02.20-08.20.51:428][959]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2020.02.20-08.20.51:428][959]MaterialEditorStats: Texture samplers: 8/16
+[2020.02.20-08.20.51:429][959]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.02.20-08.20.51:429][959]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.20-08.21.20:503][920]LogSlate: Window 'Message' being destroyed
+[2020.02.20-08.21.21:013][920]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2020.02.20-08.21.21:077][920]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.20-08.21.21:077][920]LogShaderCompilers: Display: Shaders left to compile 29
+[2020.02.20-08.21.21:077][920]LogShaderCompilers: Display: Shaders left to compile 28
+[2020.02.20-08.21.21:099][920]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2020.02.20-08.21.21:137][920]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2020.02.20-08.21.21:188][920]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Concrete_Tiles, compiling. 
+[2020.02.20-08.21.24:116][920]LogShaderCompilers: Display: Shaders left to compile 59
+[2020.02.20-08.21.24:116][920]LogShaderCompilers: Display: Shaders left to compile 58
+[2020.02.20-08.21.24:116][920]LogShaderCompilers: Display: Shaders left to compile 57
+[2020.02.20-08.21.24:116][920]LogShaderCompilers: Display: Shaders left to compile 56
+[2020.02.20-08.21.24:116][920]LogShaderCompilers: Display: Shaders left to compile 55
+[2020.02.20-08.21.24:116][920]LogShaderCompilers: Display: Shaders left to compile 54
+[2020.02.20-08.21.24:116][920]LogShaderCompilers: Display: Shaders left to compile 53
+[2020.02.20-08.21.24:116][920]LogShaderCompilers: Display: Shaders left to compile 52
+[2020.02.20-08.21.24:116][920]LogShaderCompilers: Display: Shaders left to compile 51
+[2020.02.20-08.21.24:116][920]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.02.20-08.21.24:116][920]LogShaderCompilers: Display: Shaders left to compile 49
+[2020.02.20-08.21.24:116][920]LogShaderCompilers: Display: Shaders left to compile 48
+[2020.02.20-08.21.24:116][920]LogShaderCompilers: Display: Shaders left to compile 47
+[2020.02.20-08.21.24:116][920]LogShaderCompilers: Display: Shaders left to compile 46
+[2020.02.20-08.21.24:116][920]LogShaderCompilers: Display: Shaders left to compile 45
+[2020.02.20-08.21.24:116][920]LogShaderCompilers: Display: Shaders left to compile 44
+[2020.02.20-08.21.24:116][920]LogShaderCompilers: Display: Shaders left to compile 43
+[2020.02.20-08.21.24:116][920]LogShaderCompilers: Display: Shaders left to compile 42
+[2020.02.20-08.21.24:116][920]LogShaderCompilers: Display: Shaders left to compile 41
+[2020.02.20-08.21.24:116][920]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.02.20-08.21.24:116][920]LogShaderCompilers: Display: Shaders left to compile 39
+[2020.02.20-08.21.24:116][920]LogShaderCompilers: Display: Shaders left to compile 38
+[2020.02.20-08.21.24:116][920]LogShaderCompilers: Display: Shaders left to compile 37
+[2020.02.20-08.21.24:116][920]LogShaderCompilers: Display: Shaders left to compile 36
+[2020.02.20-08.21.24:116][920]LogShaderCompilers: Display: Shaders left to compile 35
+[2020.02.20-08.21.24:116][920]LogShaderCompilers: Display: Shaders left to compile 34
+[2020.02.20-08.21.24:116][920]LogShaderCompilers: Display: Shaders left to compile 33
+[2020.02.20-08.21.24:116][920]LogShaderCompilers: Display: Shaders left to compile 32
+[2020.02.20-08.21.24:116][920]LogShaderCompilers: Display: Shaders left to compile 31
+[2020.02.20-08.21.24:116][920]LogShaderCompilers: Display: Shaders left to compile 21
+[2020.02.20-08.21.24:116][920]LogShaderCompilers: Display: Shaders left to compile 11
+[2020.02.20-08.21.24:117][920]TextureStreamingBuild: Display: Compiling optional shaders took 2.935 seconds.
+[2020.02.20-08.21.26:726][186]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.20-08.21.27:585][277]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.02.20-08.21.27:838][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.20-08.21.35:821][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-08.21.41:406][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2020.02.20-08.21.46:549][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-08.21.52:791][934]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.20-08.21.53:688][ 30]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.20-08.21.53:703][ 30]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.21.53:703][ 30]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.20-08.21.53:705][ 30]LogPlayLevel: [PlayLevel] Compiling labiryntMdd before play...
+[2020.02.20-08.21.53:829][ 30]LogPlayLevel: PlayLevel: Blueprint regeneration took 125 ms (1 blueprints)
+[2020.02.20-08.21.53:829][ 30]PIE: New page: PIE session: labiryntMdd (20 lut 2020, 10:21:53)
+[2020.02.20-08.21.53:829][ 30]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_labiryntMdd
+[2020.02.20-08.21.53:832][ 30]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002228s)
+[2020.02.20-08.21.53:832][ 30]LogAIModule: Creating AISystem for world labiryntMdd
+[2020.02.20-08.21.53:833][ 30]LogPlayLevel: PIE: World Init took: (0.000964s)
+[2020.02.20-08.21.53:833][ 30]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/labiryntMdd.labiryntMdd to /Game/UEDPIE_0_labiryntMdd.labiryntMdd (0.003336s)
+[2020.02.20-08.21.53:877][ 30]LogInit: XAudio2 using 'G2460 (2 — NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.20-08.21.53:891][ 30]LogInit: FAudioDevice initialized.
+[2020.02.20-08.21.53:891][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.20-08.21.53:924][ 30]LogLoad: Game class is 'GameModeBase'
+[2020.02.20-08.21.53:925][ 30]LogWorld: Bringing World /Game/UEDPIE_0_labiryntMdd.labiryntMdd up for play (max tick rate 0) at 2020.02.20-09.21.53
+[2020.02.20-08.21.53:925][ 30]LogWorld: Bringing up level for play took: 0.000560
+[2020.02.20-08.21.53:938][ 30]PIE: Play in editor start time for /Game/UEDPIE_0_labiryntMdd 0,756
+[2020.02.20-08.21.53:938][ 30]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.22.07:331][631]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.22.07:331][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-08.22.07:370][631]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.20-08.22.07:370][631]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.22.07:397][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-08.22.07:437][633]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.02.20-08.22.08:378][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-08.22.38:362][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/labiryntMdd" FILE="../../../../../MD/Unreal Project/LabiryntMD/Saved/Autosaves/Game/labiryntMdd_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.02.20-08.22.38:510][315]LogSavePackage: Moving '../../../../../MD/Unreal Project/LabiryntMD/Saved/labiryntMdd_Auto3CE3F63794BD51122CE6926801D17B89C.tmp' to '../../../../../MD/Unreal Project/LabiryntMD/Saved/Autosaves/Game/labiryntMdd_Auto3.umap'
+[2020.02.20-08.22.38:513][315]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/labiryntMdd' took 0.193
+[2020.02.20-08.22.38:513][315]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.193
+[2020.02.20-08.22.38:515][315]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/M_Concrete_Tiles] ([1] browsable assets)...
+[2020.02.20-08.22.38:567][315]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/M_Concrete_Tiles.M_Concrete_Tiles]
+[2020.02.20-08.22.38:567][315]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Concrete_Tiles]
+[2020.02.20-08.22.38:617][315]LogSavePackage: Moving '../../../../../MD/Unreal Project/LabiryntMD/Saved/M_Concrete_Tiles_Auto3F959A1554452A4C468723791AED68D0F.tmp' to '../../../../../MD/Unreal Project/LabiryntMD/Saved/Autosaves/Game/StarterContent/Materials/M_Concrete_Tiles_Auto3.uasset'
+[2020.02.20-08.22.38:618][315]LogFileHelpers: Auto-saving content packages took 0.103
+[2020.02.20-08.22.45:180][ 68]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.20-08.22.45:195][ 68]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.22.45:195][ 68]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.20-08.22.45:195][ 68]PIE: New page: PIE session: labiryntMdd (20 lut 2020, 10:22:45)
+[2020.02.20-08.22.45:195][ 68]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_labiryntMdd
+[2020.02.20-08.22.45:198][ 68]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002224s)
+[2020.02.20-08.22.45:198][ 68]LogAIModule: Creating AISystem for world labiryntMdd
+[2020.02.20-08.22.45:199][ 68]LogPlayLevel: PIE: World Init took: (0.000793s)
+[2020.02.20-08.22.45:199][ 68]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/labiryntMdd.labiryntMdd to /Game/UEDPIE_0_labiryntMdd.labiryntMdd (0.003139s)
+[2020.02.20-08.22.45:239][ 68]LogInit: XAudio2 using 'G2460 (2 — NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.20-08.22.45:251][ 68]LogInit: FAudioDevice initialized.
+[2020.02.20-08.22.45:286][ 68]LogLoad: Game class is 'GameModeBase'
+[2020.02.20-08.22.45:286][ 68]LogWorld: Bringing World /Game/UEDPIE_0_labiryntMdd.labiryntMdd up for play (max tick rate 0) at 2020.02.20-09.22.45
+[2020.02.20-08.22.45:286][ 68]LogWorld: Bringing up level for play took: 0.000715
+[2020.02.20-08.22.45:300][ 68]PIE: Play in editor start time for /Game/UEDPIE_0_labiryntMdd 0,119
+[2020.02.20-08.22.45:300][ 68]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.22.49:393][552]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.22.49:393][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-08.22.49:432][552]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.20-08.22.49:432][552]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.22.49:459][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-08.22.49:494][554]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.02.20-08.22.50:560][675]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.20-08.22.51:476][780]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.20-08.22.51:491][780]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.22.51:491][780]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.20-08.22.51:491][780]PIE: New page: PIE session: labiryntMdd (20 lut 2020, 10:22:51)
+[2020.02.20-08.22.51:491][780]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_labiryntMdd
+[2020.02.20-08.22.51:493][780]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002168s)
+[2020.02.20-08.22.51:494][780]LogAIModule: Creating AISystem for world labiryntMdd
+[2020.02.20-08.22.51:494][780]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2020.02.20-08.22.51:494][780]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/labiryntMdd.labiryntMdd to /Game/UEDPIE_0_labiryntMdd.labiryntMdd (0.003054s)
+[2020.02.20-08.22.51:536][780]LogInit: XAudio2 using 'G2460 (2 — NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.20-08.22.51:547][780]LogInit: FAudioDevice initialized.
+[2020.02.20-08.22.51:547][780]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.20-08.22.51:581][780]LogLoad: Game class is 'GameModeBase'
+[2020.02.20-08.22.51:582][780]LogWorld: Bringing World /Game/UEDPIE_0_labiryntMdd.labiryntMdd up for play (max tick rate 0) at 2020.02.20-09.22.51
+[2020.02.20-08.22.51:583][780]LogWorld: Bringing up level for play took: 0.000702
+[2020.02.20-08.22.51:596][780]PIE: Play in editor start time for /Game/UEDPIE_0_labiryntMdd 0,414
+[2020.02.20-08.22.51:596][780]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.22.54:983][181]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.22.54:983][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-08.22.55:019][181]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.20-08.22.55:019][181]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.22.55:046][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-08.22.55:084][183]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.02.20-08.22.56:079][293]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-08.31.38:119][908]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.20-08.31.38:135][908]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.31.38:135][908]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.20-08.31.38:138][908]LogPlayLevel: [PlayLevel] Compiling labiryntMdd before play...
+[2020.02.20-08.31.38:257][908]LogPlayLevel: PlayLevel: Blueprint regeneration took 122 ms (1 blueprints)
+[2020.02.20-08.31.38:257][908]PIE: New page: PIE session: labiryntMdd (20 lut 2020, 10:31:38)
+[2020.02.20-08.31.38:257][908]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_labiryntMdd
+[2020.02.20-08.31.38:260][908]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002472s)
+[2020.02.20-08.31.38:261][908]LogAIModule: Creating AISystem for world labiryntMdd
+[2020.02.20-08.31.38:261][908]LogPlayLevel: PIE: World Init took: (0.001185s)
+[2020.02.20-08.31.38:261][908]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/labiryntMdd.labiryntMdd to /Game/UEDPIE_0_labiryntMdd.labiryntMdd (0.003881s)
+[2020.02.20-08.31.38:304][908]LogInit: XAudio2 using 'G2460 (2 — NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.20-08.31.38:319][908]LogInit: FAudioDevice initialized.
+[2020.02.20-08.31.38:336][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-08.31.38:373][908]LogLoad: Game class is 'GameModeBase'
+[2020.02.20-08.31.38:374][908]LogWorld: Bringing World /Game/UEDPIE_0_labiryntMdd.labiryntMdd up for play (max tick rate 0) at 2020.02.20-09.31.38
+[2020.02.20-08.31.38:375][908]LogWorld: Bringing up level for play took: 0.001015
+[2020.02.20-08.31.38:389][908]PIE: Play in editor start time for /Game/UEDPIE_0_labiryntMdd 1,207
+[2020.02.20-08.31.38:389][908]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.31.55:050][896]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.31.55:051][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-08.31.55:068][896]LogSlate: Window 'LabiryntMD Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.20-08.31.55:106][896]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.20-08.31.55:106][896]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.31.55:158][897]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.02.20-08.31.56:637][ 57]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.20-08.31.56:651][ 57]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.31.56:651][ 57]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.20-08.31.56:651][ 57]PIE: New page: PIE session: labiryntMdd (20 lut 2020, 10:31:56)
+[2020.02.20-08.31.56:651][ 57]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_labiryntMdd
+[2020.02.20-08.31.56:654][ 57]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002202s)
+[2020.02.20-08.31.56:654][ 57]LogAIModule: Creating AISystem for world labiryntMdd
+[2020.02.20-08.31.56:654][ 57]LogPlayLevel: PIE: World Init took: (0.000837s)
+[2020.02.20-08.31.56:655][ 57]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/labiryntMdd.labiryntMdd to /Game/UEDPIE_0_labiryntMdd.labiryntMdd (0.003210s)
+[2020.02.20-08.31.56:693][ 57]LogInit: XAudio2 using 'G2460 (2 — NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.20-08.31.56:704][ 57]LogInit: FAudioDevice initialized.
+[2020.02.20-08.31.56:720][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-08.31.56:752][ 57]LogLoad: Game class is 'GameModeBase'
+[2020.02.20-08.31.56:753][ 57]LogWorld: Bringing World /Game/UEDPIE_0_labiryntMdd.labiryntMdd up for play (max tick rate 0) at 2020.02.20-09.31.56
+[2020.02.20-08.31.56:753][ 57]LogWorld: Bringing up level for play took: 0.000649
+[2020.02.20-08.31.56:767][ 57]PIE: Play in editor start time for /Game/UEDPIE_0_labiryntMdd -0,415
+[2020.02.20-08.31.56:767][ 57]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.32.04:390][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-08.32.10:545][674]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.32.10:546][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-08.32.10:561][674]LogSlate: Window 'LabiryntMD Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.20-08.32.10:596][674]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.20-08.32.10:596][674]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.32.10:641][675]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.02.20-08.32.38:131][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/labiryntMdd" FILE="../../../../../MD/Unreal Project/LabiryntMD/Content/labiryntMdd.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.20-08.32.38:308][ 23]LogSavePackage: Moving '../../../../../MD/Unreal Project/LabiryntMD/Saved/labiryntMddC66E504A458E72887F34CA8FC0722852.tmp' to '../../../../../MD/Unreal Project/LabiryntMD/Content/labiryntMdd.umap'
+[2020.02.20-08.32.38:338][ 23]LogFileHelpers: Saving map 'labiryntMdd' took 0.255
+[2020.02.20-08.34.59:003][ 31]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.20-08.34.59:018][ 31]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.34.59:019][ 31]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.20-08.34.59:019][ 31]PIE: New page: PIE session: labiryntMdd (20 lut 2020, 10:34:59)
+[2020.02.20-08.34.59:019][ 31]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_labiryntMdd
+[2020.02.20-08.34.59:022][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002735s)
+[2020.02.20-08.34.59:022][ 31]LogAIModule: Creating AISystem for world labiryntMdd
+[2020.02.20-08.34.59:023][ 31]LogPlayLevel: PIE: World Init took: (0.001052s)
+[2020.02.20-08.34.59:023][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/labiryntMdd.labiryntMdd to /Game/UEDPIE_0_labiryntMdd.labiryntMdd (0.003921s)
+[2020.02.20-08.34.59:067][ 31]LogInit: XAudio2 using 'G2460 (2 — NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.20-08.34.59:080][ 31]LogInit: FAudioDevice initialized.
+[2020.02.20-08.34.59:114][ 31]LogLoad: Game class is 'GameModeBase'
+[2020.02.20-08.34.59:115][ 31]LogWorld: Bringing World /Game/UEDPIE_0_labiryntMdd.labiryntMdd up for play (max tick rate 0) at 2020.02.20-09.34.59
+[2020.02.20-08.34.59:116][ 31]LogWorld: Bringing up level for play took: 0.000715
+[2020.02.20-08.34.59:129][ 31]PIE: Play in editor start time for /Game/UEDPIE_0_labiryntMdd -0,053
+[2020.02.20-08.34.59:129][ 31]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.35.14:723][892]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.35.14:723][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-08.35.14:764][892]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.20-08.35.14:764][892]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.35.14:791][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-08.35.14:828][894]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.02.20-08.35.33:968][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-08.35.41:147][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-08.35.45:834][235]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.20-08.35.46:710][336]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.20-08.35.46:724][336]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.35.46:725][336]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.20-08.35.46:725][336]PIE: New page: PIE session: labiryntMdd (20 lut 2020, 10:35:46)
+[2020.02.20-08.35.46:725][336]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_labiryntMdd
+[2020.02.20-08.35.46:728][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002403s)
+[2020.02.20-08.35.46:729][336]LogAIModule: Creating AISystem for world labiryntMdd
+[2020.02.20-08.35.46:729][336]LogPlayLevel: PIE: World Init took: (0.000920s)
+[2020.02.20-08.35.46:729][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/labiryntMdd.labiryntMdd to /Game/UEDPIE_0_labiryntMdd.labiryntMdd (0.003483s)
+[2020.02.20-08.35.46:770][336]LogInit: XAudio2 using 'G2460 (2 — NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.20-08.35.46:781][336]LogInit: FAudioDevice initialized.
+[2020.02.20-08.35.46:781][336]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.20-08.35.46:817][336]LogLoad: Game class is 'GameModeBase'
+[2020.02.20-08.35.46:818][336]LogWorld: Bringing World /Game/UEDPIE_0_labiryntMdd.labiryntMdd up for play (max tick rate 0) at 2020.02.20-09.35.46
+[2020.02.20-08.35.46:819][336]LogWorld: Bringing up level for play took: 0.000688
+[2020.02.20-08.35.46:832][336]PIE: Play in editor start time for /Game/UEDPIE_0_labiryntMdd -0,35
+[2020.02.20-08.35.46:832][336]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.36.08:210][897]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.36.08:210][897]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-08.36.08:244][897]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.20-08.36.08:245][897]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.36.08:272][897]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-08.36.08:310][899]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.02.20-08.36.14:532][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-08.37.45:904][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/labiryntMdd" FILE="../../../../../MD/Unreal Project/LabiryntMD/Content/labiryntMdd.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.20-08.37.46:077][571]LogSavePackage: Moving '../../../../../MD/Unreal Project/LabiryntMD/Saved/labiryntMdd60CA870D45FA5EF8B7F01C9BEF9BF348.tmp' to '../../../../../MD/Unreal Project/LabiryntMD/Content/labiryntMdd.umap'
+[2020.02.20-08.37.46:103][571]LogFileHelpers: Saving map 'labiryntMdd' took 0.249
+[2020.02.20-08.37.48:523][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/labiryntMdd" FILE="../../../../../MD/Unreal Project/LabiryntMD/Content/labiryntMdd.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.20-08.37.48:681][845]LogSavePackage: Moving '../../../../../MD/Unreal Project/LabiryntMD/Saved/labiryntMddAA899BA149F330712A1B938774A1B5D8.tmp' to '../../../../../MD/Unreal Project/LabiryntMD/Content/labiryntMdd.umap'
+[2020.02.20-08.37.48:708][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/labiryntMdd_BuiltData" FILE="../../../../../MD/Unreal Project/LabiryntMD/Content/labiryntMdd_BuiltData.uasset" SILENT=true
+[2020.02.20-08.37.48:728][845]LogSavePackage: Moving '../../../../../MD/Unreal Project/LabiryntMD/Saved/labiryntMdd_BuiltData34BA535A4AF4017589C1BE85FEEED216.tmp' to '../../../../../MD/Unreal Project/LabiryntMD/Content/labiryntMdd_BuiltData.uasset'
+[2020.02.20-08.37.53:439][406]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-08.38.14:155][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-08.38.19:771][312]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-08.38.25:736][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-08.38.27:907][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-08.38.34:485][876]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.20-08.38.35:297][969]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.20-08.38.35:311][969]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.38.35:311][969]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.20-08.38.35:312][969]PIE: New page: PIE session: labiryntMdd (20 lut 2020, 10:38:35)
+[2020.02.20-08.38.35:312][969]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_labiryntMdd
+[2020.02.20-08.38.35:314][969]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002223s)
+[2020.02.20-08.38.35:315][969]LogAIModule: Creating AISystem for world labiryntMdd
+[2020.02.20-08.38.35:315][969]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2020.02.20-08.38.35:315][969]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/labiryntMdd.labiryntMdd to /Game/UEDPIE_0_labiryntMdd.labiryntMdd (0.003193s)
+[2020.02.20-08.38.35:356][969]LogInit: XAudio2 using 'G2460 (2 — NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.20-08.38.35:369][969]LogInit: FAudioDevice initialized.
+[2020.02.20-08.38.35:369][969]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.20-08.38.35:401][969]LogLoad: Game class is 'GameModeBase'
+[2020.02.20-08.38.35:402][969]LogWorld: Bringing World /Game/UEDPIE_0_labiryntMdd.labiryntMdd up for play (max tick rate 0) at 2020.02.20-09.38.35
+[2020.02.20-08.38.35:402][969]LogWorld: Bringing up level for play took: 0.000599
+[2020.02.20-08.38.35:415][969]PIE: Play in editor start time for /Game/UEDPIE_0_labiryntMdd 0,233
+[2020.02.20-08.38.35:415][969]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.38.56:034][438]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.38.56:035][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-08.38.56:072][438]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.20-08.38.56:072][438]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/labiryntMdd.labiryntMdd:PersistentLevel' has LevelScriptBlueprint '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd' with GeneratedClass '/Game/labiryntMdd.labiryntMdd_C' with ClassGeneratedBy '/Game/labiryntMdd.labiryntMdd:PersistentLevel.labiryntMdd'
+[2020.02.20-08.38.56:098][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-08.38.56:138][440]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.02.20-08.38.56:954][537]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-08.38.57:089][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/labiryntMdd" FILE="../../../../../MD/Unreal Project/LabiryntMD/Content/labiryntMdd.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.20-08.38.57:249][551]LogSavePackage: Moving '../../../../../MD/Unreal Project/LabiryntMD/Saved/labiryntMdd6704714042BBDC8CE671218E7776F105.tmp' to '../../../../../MD/Unreal Project/LabiryntMD/Content/labiryntMdd.umap'
+[2020.02.20-08.38.57:279][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/labiryntMdd_BuiltData" FILE="../../../../../MD/Unreal Project/LabiryntMD/Content/labiryntMdd_BuiltData.uasset" SILENT=true
+[2020.02.20-08.38.57:295][551]LogSavePackage: Moving '../../../../../MD/Unreal Project/LabiryntMD/Saved/labiryntMdd_BuiltData9AD77B204713DBF2CF9D16BAAB5F48DC.tmp' to '../../../../../MD/Unreal Project/LabiryntMD/Content/labiryntMdd_BuiltData.uasset'
+[2020.02.20-08.38.57:952][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-08.40.48:644][741]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.20-08.40.51:550][ 76]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.20-08.41.20:227][226]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-08.42.48:917][809]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.02.20-08.42.53:488][293]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-08.42.58:158][789]Cmd: TRANSACTION UNDO
+[2020.02.20-08.42.58:158][789]LogEditorTransaction: Undo Create Actors
+[2020.02.20-08.42.58:159][789]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/labiryntMdd.labiryntMdd:PersistentLevel.ModelComponent_0, Buffer: 0, Buffer Size: 0, Element: 0
+[2020.02.20-08.42.58:159][789]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/labiryntMdd.labiryntMdd:PersistentLevel.ModelComponent_0, Buffer: 0, Buffer Size: 0, Element: 1
+[2020.02.20-08.42.58:159][789]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/labiryntMdd.labiryntMdd:PersistentLevel.ModelComponent_0, Buffer: 0, Buffer Size: 0, Element: 2
+[2020.02.20-08.42.58:159][789]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/labiryntMdd.labiryntMdd:PersistentLevel.ModelComponent_0, Buffer: 0, Buffer Size: 0, Element: 3
+[2020.02.20-08.42.58:159][789]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/labiryntMdd.labiryntMdd:PersistentLevel.ModelComponent_0, Buffer: 0, Buffer Size: 0, Element: 4
+[2020.02.20-08.42.58:159][789]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/labiryntMdd.labiryntMdd:PersistentLevel.ModelComponent_0' invalid (24 verts, 0 indices).
+[2020.02.20-08.42.58:159][789]LogPhysics: Warning: Attempt to build physics data for /Game/labiryntMdd.labiryntMdd:PersistentLevel.ModelComponent_0.BodySetup_0 when we are unable to.
+[2020.02.20-08.42.58:878][856]Cmd: TRANSACTION UNDO
+[2020.02.20-08.42.58:878][856]LogEditorTransaction: Undo Brush Add
+[2020.02.20-08.43.00:233][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-08.43.07:058][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-08.43.09:492][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-08.43.10:220][106]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.02.20-08.43.41:808][848]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-08.44.01:413][179]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-08.44.16:765][905]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-08.44.18:009][ 28]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.02.20-08.44.20:195][286]Cmd: TRANSACTION UNDO
+[2020.02.20-08.44.20:195][286]LogEditorTransaction: Undo Brush Add
+[2020.02.20-08.44.26:873][ 63]Cmd: POLY SELECT MEMORY UNION
+[2020.02.20-08.45.51:361][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-08.48.57:583][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/labiryntMdd" FILE="../../../../../MD/Unreal Project/LabiryntMD/Saved/Autosaves/Game/labiryntMdd_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.02.20-08.48.57:782][237]LogSavePackage: Moving '../../../../../MD/Unreal Project/LabiryntMD/Saved/labiryntMdd_Auto4CF23584C464726B26BBF96A5EAAB9B56.tmp' to '../../../../../MD/Unreal Project/LabiryntMD/Saved/Autosaves/Game/labiryntMdd_Auto4.umap'
+[2020.02.20-08.48.57:785][237]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/labiryntMdd' took 0.245
+[2020.02.20-08.48.57:785][237]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.245
+[2020.02.20-08.52.02:541][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-08.52.02:663][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/labiryntMdd" FILE="../../../../../MD/Unreal Project/LabiryntMD/Content/labiryntMdd.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.20-08.52.02:842][955]LogSavePackage: Moving '../../../../../MD/Unreal Project/LabiryntMD/Saved/labiryntMddC95C1012419C676991C22A8F544CC5BC.tmp' to '../../../../../MD/Unreal Project/LabiryntMD/Content/labiryntMdd.umap'
+[2020.02.20-08.52.02:878][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/labiryntMdd_BuiltData" FILE="../../../../../MD/Unreal Project/LabiryntMD/Content/labiryntMdd_BuiltData.uasset" SILENT=true
+[2020.02.20-08.52.02:896][955]LogSavePackage: Moving '../../../../../MD/Unreal Project/LabiryntMD/Saved/labiryntMdd_BuiltDataA125DEF14059D874A5309E8469DDF274.tmp' to '../../../../../MD/Unreal Project/LabiryntMD/Content/labiryntMdd_BuiltData.uasset'
+[2020.02.20-08.52.03:304][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-08.52.05:639][  8]BlueprintLog: New page: Compile labiryntMdd
+[2020.02.20-08.52.08:893][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/labiryntMdd" FILE="../../../../../MD/Unreal Project/LabiryntMD/Content/labiryntMdd.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.20-08.52.09:076][336]LogSavePackage: Moving '../../../../../MD/Unreal Project/LabiryntMD/Saved/labiryntMdd434D64E74FC9A014FD78A687C5B142DB.tmp' to '../../../../../MD/Unreal Project/LabiryntMD/Content/labiryntMdd.umap'
+[2020.02.20-08.52.09:105][336]LogFileHelpers: Saving map 'labiryntMdd' took 0.570
+[2020.02.20-08.52.19:044][433]LogSlate: Window 'Save Content' being destroyed
+[2020.02.20-08.52.19:064][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Concrete_Tiles" FILE="../../../../../MD/Unreal Project/LabiryntMD/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" SILENT=true
+[2020.02.20-08.52.19:092][433]LogSavePackage: Moving '../../../../../MD/Unreal Project/LabiryntMD/Saved/M_Concrete_TilesDA3935C24AA806422170C69B5A599809.tmp' to '../../../../../MD/Unreal Project/LabiryntMD/Content/StarterContent/Materials/M_Concrete_Tiles.uasset'
+[2020.02.20-08.52.19:240][433]LogSlate: Window 'LabiryntMD - Unreal Editor' being destroyed
+[2020.02.20-08.52.19:465][434]Cmd: QUIT_EDITOR
+[2020.02.20-08.52.20:150][434]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.20-08.52.20:194][434]LogExit: Preparing to exit.
+[2020.02.20-08.52.20:570][434]LogExit: Editor shut down
+[2020.02.20-08.52.20:570][434]LogExit: Transaction tracking system shut down
+[2020.02.20-08.52.21:158][434]LogExit: Object subsystem successfully closed.
+[2020.02.20-08.52.21:221][434]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.02.20-08.52.21:237][434]LogD3D11RHI: Shutdown
+[2020.02.20-08.52.21:237][434]LogD3D11RHI: CleanupD3DDevice
+[2020.02.20-08.52.21:240][434]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.02.20-08.52.21:486][434]LogModuleManager: Shutting down and abandoning module BlueprintGraph (616)
+[2020.02.20-08.52.21:486][434]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (614)
+[2020.02.20-08.52.21:486][434]LogModuleManager: Shutting down and abandoning module Voice (612)
+[2020.02.20-08.52.21:486][434]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2020.02.20-08.52.21:486][434]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2020.02.20-08.52.21:486][434]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2020.02.20-08.52.21:487][434]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2020.02.20-08.52.21:487][434]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2020.02.20-08.52.21:487][434]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2020.02.20-08.52.21:487][434]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2020.02.20-08.52.21:492][434]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2020.02.20-08.52.21:492][434]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2020.02.20-08.52.21:500][434]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2020.02.20-08.52.21:500][434]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2020.02.20-08.52.21:500][434]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2020.02.20-08.52.21:500][434]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2020.02.20-08.52.21:500][434]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2020.02.20-08.52.21:500][434]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2020.02.20-08.52.21:500][434]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2020.02.20-08.52.21:500][434]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2020.02.20-08.52.21:500][434]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2020.02.20-08.52.21:500][434]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2020.02.20-08.52.21:500][434]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2020.02.20-08.52.21:500][434]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2020.02.20-08.52.21:500][434]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2020.02.20-08.52.21:513][434]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2020.02.20-08.52.21:513][434]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2020.02.20-08.52.21:513][434]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2020.02.20-08.52.21:513][434]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2020.02.20-08.52.21:513][434]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2020.02.20-08.52.21:513][434]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2020.02.20-08.52.21:513][434]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2020.02.20-08.52.21:513][434]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2020.02.20-08.52.21:513][434]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2020.02.20-08.52.21:513][434]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2020.02.20-08.52.21:513][434]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2020.02.20-08.52.21:513][434]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2020.02.20-08.52.21:513][434]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2020.02.20-08.52.21:513][434]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2020.02.20-08.52.21:513][434]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2020.02.20-08.52.21:513][434]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2020.02.20-08.52.21:513][434]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2020.02.20-08.52.21:513][434]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2020.02.20-08.52.21:513][434]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2020.02.20-08.52.21:513][434]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2020.02.20-08.52.21:522][434]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2020.02.20-08.52.21:522][434]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2020.02.20-08.52.21:524][434]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2020.02.20-08.52.21:524][434]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2020.02.20-08.52.21:524][434]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2020.02.20-08.52.21:524][434]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2020.02.20-08.52.21:524][434]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2020.02.20-08.52.21:524][434]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2020.02.20-08.52.21:524][434]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2020.02.20-08.52.21:524][434]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2020.02.20-08.52.22:533][434]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2020.02.20-08.52.22:533][434]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2020.02.20-08.52.22:533][434]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2020.02.20-08.52.22:533][434]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2020.02.20-08.52.22:533][434]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2020.02.20-08.52.22:539][434]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2020.02.20-08.52.22:539][434]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2020.02.20-08.52.22:544][434]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2020.02.20-08.52.22:544][434]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2020.02.20-08.52.22:544][434]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2020.02.20-08.52.22:544][434]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2020.02.20-08.52.22:544][434]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2020.02.20-08.52.22:544][434]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2020.02.20-08.52.22:544][434]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2020.02.20-08.52.22:544][434]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2020.02.20-08.52.22:544][434]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2020.02.20-08.52.22:544][434]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2020.02.20-08.52.22:544][434]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2020.02.20-08.52.22:557][434]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2020.02.20-08.52.22:557][434]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2020.02.20-08.52.22:558][434]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2020.02.20-08.52.22:558][434]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2020.02.20-08.52.22:624][434]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2020.02.20-08.52.22:624][434]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2020.02.20-08.52.22:633][434]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2020.02.20-08.52.22:635][434]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2020.02.20-08.52.22:635][434]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2020.02.20-08.52.22:635][434]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2020.02.20-08.52.22:635][434]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2020.02.20-08.52.22:649][434]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2020.02.20-08.52.22:649][434]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2020.02.20-08.52.22:649][434]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2020.02.20-08.52.22:664][434]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2020.02.20-08.52.22:664][434]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2020.02.20-08.52.22:664][434]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2020.02.20-08.52.22:664][434]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2020.02.20-08.52.22:674][434]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2020.02.20-08.52.22:675][434]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2020.02.20-08.52.22:675][434]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2020.02.20-08.52.22:676][434]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2020.02.20-08.52.22:676][434]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2020.02.20-08.52.22:679][434]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2020.02.20-08.52.22:679][434]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2020.02.20-08.52.22:679][434]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2020.02.20-08.52.22:679][434]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2020.02.20-08.52.22:679][434]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2020.02.20-08.52.22:679][434]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2020.02.20-08.52.22:680][434]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2020.02.20-08.52.22:680][434]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2020.02.20-08.52.22:680][434]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2020.02.20-08.52.22:680][434]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2020.02.20-08.52.22:680][434]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2020.02.20-08.52.22:680][434]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2020.02.20-08.52.22:680][434]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2020.02.20-08.52.22:868][434]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2020.02.20-08.52.22:869][434]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2020.02.20-08.52.22:869][434]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2020.02.20-08.52.22:869][434]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2020.02.20-08.52.22:869][434]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2020.02.20-08.52.22:869][434]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2020.02.20-08.52.22:869][434]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2020.02.20-08.52.22:869][434]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2020.02.20-08.52.22:869][434]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2020.02.20-08.52.22:869][434]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2020.02.20-08.52.22:869][434]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2020.02.20-08.52.22:869][434]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2020.02.20-08.52.22:869][434]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2020.02.20-08.52.22:869][434]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2020.02.20-08.52.22:869][434]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2020.02.20-08.52.22:869][434]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2020.02.20-08.52.22:869][434]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2020.02.20-08.52.22:869][434]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2020.02.20-08.52.22:884][434]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2020.02.20-08.52.22:884][434]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2020.02.20-08.52.22:884][434]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2020.02.20-08.52.22:884][434]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2020.02.20-08.52.22:890][434]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2020.02.20-08.52.22:890][434]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2020.02.20-08.52.22:890][434]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2020.02.20-08.52.22:890][434]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2020.02.20-08.52.22:890][434]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2020.02.20-08.52.22:890][434]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2020.02.20-08.52.22:890][434]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2020.02.20-08.52.22:890][434]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2020.02.20-08.52.22:891][434]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2020.02.20-08.52.22:891][434]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2020.02.20-08.52.22:891][434]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2020.02.20-08.52.22:891][434]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2020.02.20-08.52.22:891][434]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2020.02.20-08.52.22:891][434]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2020.02.20-08.52.22:891][434]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2020.02.20-08.52.22:892][434]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2020.02.20-08.52.22:892][434]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2020.02.20-08.52.22:892][434]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2020.02.20-08.52.22:892][434]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2020.02.20-08.52.22:892][434]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2020.02.20-08.52.22:895][434]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2020.02.20-08.52.22:895][434]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2020.02.20-08.52.22:896][434]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2020.02.20-08.52.22:896][434]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2020.02.20-08.52.22:896][434]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2020.02.20-08.52.22:896][434]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2020.02.20-08.52.22:896][434]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2020.02.20-08.52.22:908][434]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2020.02.20-08.52.22:908][434]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2020.02.20-08.52.22:908][434]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2020.02.20-08.52.22:908][434]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2020.02.20-08.52.22:908][434]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2020.02.20-08.52.22:908][434]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2020.02.20-08.52.22:908][434]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2020.02.20-08.52.22:908][434]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2020.02.20-08.52.22:908][434]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.02.20-08.52.22:908][434]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.02.20-08.52.23:009][434]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.02.20-08.52.23:109][434]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2020.02.20-08.52.23:109][434]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2020.02.20-08.52.23:109][434]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2020.02.20-08.52.23:109][434]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2020.02.20-08.52.23:109][434]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2020.02.20-08.52.23:109][434]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2020.02.20-08.52.23:125][434]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2020.02.20-08.52.23:126][434]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2020.02.20-08.52.23:126][434]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2020.02.20-08.52.23:126][434]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2020.02.20-08.52.23:126][434]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2020.02.20-08.52.23:127][434]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2020.02.20-08.52.23:127][434]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2020.02.20-08.52.23:127][434]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.02.20-08.52.23:127][434]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2020.02.20-08.52.23:127][434]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2020.02.20-08.52.23:127][434]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2020.02.20-08.52.23:128][434]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2020.02.20-08.52.23:140][434]LogModuleManager: Shutting down and abandoning module Media (243)
+[2020.02.20-08.52.23:147][434]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2020.02.20-08.52.23:147][434]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2020.02.20-08.52.23:147][434]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2020.02.20-08.52.23:152][434]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2020.02.20-08.52.23:152][434]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2020.02.20-08.52.23:152][434]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2020.02.20-08.52.23:152][434]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2020.02.20-08.52.23:158][434]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2020.02.20-08.52.23:164][434]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2020.02.20-08.52.23:164][434]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2020.02.20-08.52.23:175][434]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2020.02.20-08.52.23:175][434]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2020.02.20-08.52.23:175][434]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2020.02.20-08.52.23:175][434]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2020.02.20-08.52.23:182][434]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2020.02.20-08.52.23:196][434]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2020.02.20-08.52.23:208][434]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2020.02.20-08.52.23:208][434]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2020.02.20-08.52.23:225][434]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2020.02.20-08.52.23:226][434]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.02.20-08.52.23:228][434]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2020.02.20-08.52.23:228][434]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2020.02.20-08.52.23:228][434]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2020.02.20-08.52.23:228][434]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2020.02.20-08.52.23:228][434]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2020.02.20-08.52.23:228][434]LogModuleManager: Shutting down and abandoning module Core (188)
+[2020.02.20-08.52.23:228][434]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2020.02.20-08.52.23:228][434]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2020.02.20-08.52.23:228][434]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2020.02.20-08.52.23:228][434]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2020.02.20-08.52.23:228][434]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2020.02.20-08.52.23:228][434]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2020.02.20-08.52.23:235][434]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2020.02.20-08.52.23:254][434]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2020.02.20-08.52.23:254][434]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2020.02.20-08.52.23:264][434]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2020.02.20-08.52.23:264][434]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2020.02.20-08.52.23:265][434]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2020.02.20-08.52.23:300][434]LogDerivedDataCache: Shutdown
+[2020.02.20-08.52.23:300][434]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2020.02.20-08.52.23:300][434]LogXGEController: Cleaning working directory: C:/Users/DSuski MDonocik 1aTI/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.02.20-08.52.23:301][434]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2020.02.20-08.52.23:301][434]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2020.02.20-08.52.23:301][434]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2020.02.20-08.52.23:301][434]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2020.02.20-08.52.23:311][434]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2020.02.20-08.52.23:311][434]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2020.02.20-08.52.23:321][434]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2020.02.20-08.52.23:321][434]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2020.02.20-08.52.23:321][434]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2020.02.20-08.52.23:321][434]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2020.02.20-08.52.23:321][434]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2020.02.20-08.52.23:321][434]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2020.02.20-08.52.23:321][434]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2020.02.20-08.52.23:321][434]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2020.02.20-08.52.23:321][434]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2020.02.20-08.52.23:321][434]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2020.02.20-08.52.23:321][434]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2020.02.20-08.52.23:321][434]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2020.02.20-08.52.23:321][434]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2020.02.20-08.52.23:321][434]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2020.02.20-08.52.23:321][434]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2020.02.20-08.52.23:322][434]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2020.02.20-08.52.23:323][434]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2020.02.20-08.52.23:323][434]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2020.02.20-08.52.23:324][434]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2020.02.20-08.52.23:324][434]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2020.02.20-08.52.23:339][434]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2020.02.20-08.52.23:339][434]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2020.02.20-08.52.23:339][434]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2020.02.20-08.52.23:339][434]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2020.02.20-08.52.23:339][434]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2020.02.20-08.52.23:339][434]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2020.02.20-08.52.23:339][434]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2020.02.20-08.52.23:339][434]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2020.02.20-08.52.23:339][434]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2020.02.20-08.52.23:339][434]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2020.02.20-08.52.23:339][434]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2020.02.20-08.52.23:339][434]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2020.02.20-08.52.23:339][434]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2020.02.20-08.52.23:339][434]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2020.02.20-08.52.23:339][434]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2020.02.20-08.52.23:339][434]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2020.02.20-08.52.23:340][434]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2020.02.20-08.52.23:340][434]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2020.02.20-08.52.23:341][434]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2020.02.20-08.52.23:344][434]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2020.02.20-08.52.23:375][434]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2020.02.20-08.52.23:375][434]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2020.02.20-08.52.23:375][434]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B186D98C6-4F91-FFAA-DECB-F785D31B675B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=3c852c18414f8af76c80649ae0e1cbb5%7C31dc56d533074e8d89eea7f59f7925d7%7Cb4ed940f-67da-4705-9747-75855b47c1ca&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.02.20-08.52.23:375][434]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B186D98C6-4F91-FFAA-DECB-F785D31B675B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=3c852c18414f8af76c80649ae0e1cbb5%7C31dc56d533074e8d89eea7f59f7925d7%7Cb4ed940f-67da-4705-9747-75855b47c1ca&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.02.20-08.52.23:408][434]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2020.02.20-08.52.23:409][434]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2020.02.20-08.52.23:409][434]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2020.02.20-08.52.23:409][434]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2020.02.20-08.52.23:409][434]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2020.02.20-08.52.23:409][434]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2020.02.20-08.52.23:409][434]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2020.02.20-08.52.23:409][434]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2020.02.20-08.52.23:409][434]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2020.02.20-08.52.23:409][434]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2020.02.20-08.52.23:409][434]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.02.20-08.52.23:410][434]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2020.02.20-08.52.23:410][434]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.02.20-08.52.23:418][434]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.02.20-08.52.23:418][434]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.02.20-08.52.23:428][434]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.02.20-08.52.23:429][434]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.02.20-08.52.23:429][434]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.02.20-08.52.23:429][434]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.02.20-08.52.23:438][434]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.02.20-08.52.23:449][434]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.02.20-08.52.23:449][434]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.02.20-08.52.23:449][434]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.02.20-08.52.23:449][434]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.02.20-08.52.23:449][434]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.02.20-08.52.23:449][434]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.02.20-08.52.23:449][434]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.02.20-08.52.23:449][434]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.02.20-08.52.23:449][434]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.02.20-08.52.23:449][434]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.02.20-08.52.23:458][434]LogExit: Exiting.
+[2020.02.20-08.52.23:470][434]Log file closed, 02/20/20 09:52:23
